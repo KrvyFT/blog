@@ -99,7 +99,7 @@ aomori_logo_typed_animated: true
 aomori_menu:
   Home: /
   Archives: /archives
-  Photography: /photography
+  Gallery: /gallery
 
 aomori_widgets:
   - toc # 文章导航
