@@ -111,9 +111,8 @@ aomori_widgets:
 aomori_busuanzi: true
 aomori_google_analytics: 'UA-XXXXX-X'
 
-aomori_social:
-    icon: /assets/social_icon/telegram.png
-    url: https://t.me/KrvyFT
+aomori_favicon: /gallery/20240202_155640.jpg
+
 
 # hexo-hide-posts
 hide_posts:
