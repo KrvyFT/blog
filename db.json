@@ -1,1 +1,1120 @@
-{"meta":{"version":1,"warehouse":"5.0.1"},"models":{"Asset":[{"_id":"source/gallery/20240202_155640.jpg","path":"gallery/20240202_155640.jpg","modified":1,"renderable":0},{"_id":"source/assets/blogImg/photo.png","path":"assets/blogImg/photo.png","modified":1,"renderable":0},{"_id":"source/assets/social_icon/telegram.png","path":"assets/social_icon/telegram.png","modified":1,"renderable":0},{"_id":"node_modules/hexo-theme-aomori/source/dist/build.css","path":"dist/build.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/dist/build.js","path":"dist/build.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/dist/custom.css","path":"dist/custom.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/dist/custom.js","path":"dist/custom.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/app.js","path":"javascripts/app.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/class-module.js","path":"javascripts/class-module.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/custom.js","path":"javascripts/custom.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/disqusjs.js","path":"javascripts/disqusjs.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/gitalk.js","path":"javascripts/gitalk.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/valine.js","path":"javascripts/valine.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/algoliasearch-lite.umd.js","path":"modules/algoliasearch-lite.umd.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/highlight.min.js","path":"modules/highlight.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/lazyload.min.js","path":"modules/lazyload.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/md5.min.js","path":"modules/md5.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/nprogress.js","path":"modules/nprogress.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/perfect-scrollbar.min.js","path":"modules/perfect-scrollbar.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/plyr.js","path":"modules/plyr.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/swiper-bundle.min.js","path":"modules/swiper-bundle.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/tocbot.min.js","path":"modules/tocbot.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/modules/typed.min.js","path":"modules/typed.min.js","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/base.scss","path":"stylesheets/base.scss","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/github.css","path":"stylesheets/github.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/media-fixed.scss","path":"stylesheets/media-fixed.scss","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/normalize.css","path":"stylesheets/normalize.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/nprogress.css","path":"stylesheets/nprogress.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/page.scss","path":"stylesheets/page.scss","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/perfect-scrollbar.css","path":"stylesheets/perfect-scrollbar.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/plyr.css","path":"stylesheets/plyr.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/post.css","path":"stylesheets/post.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/remark42.css","path":"stylesheets/remark42.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre-exp.min.css","path":"stylesheets/spectre-exp.min.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre-icons.min.css","path":"stylesheets/spectre-icons.min.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre.min.css","path":"stylesheets/spectre.min.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/style.scss","path":"stylesheets/style.scss","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/swiper-bundle.min.css","path":"stylesheets/swiper-bundle.min.css","modified":1,"renderable":1},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/tocbot.css","path":"stylesheets/tocbot.css","modified":1,"renderable":1}],"Cache":[{"_id":"source/_posts/Fish-笔记.md","hash":"12d876cc69cf38c40f81d679a5e2a0cd6057dbb4","modified":1707072116875},{"_id":"source/_posts/Tokio-Rutime.md","hash":"e7afc54d5356003508ce89735087a52b10226e2a","modified":1707125299120},{"_id":"source/about/index.md","hash":"64886913b3517889fe5a60c31dc388e2143aa34b","modified":1707129119261},{"_id":"source/_data/photography.json","hash":"2b559e1a3287eb2942e83ebbd790c95f21208daf","modified":1707211104677},{"_id":"source/gallery/index.md","hash":"d1592067d6d941bd543b0077343c60f21c7c57a3","modified":1707211104677},{"_id":"source/assets/social_icon/telegram.png","hash":"5cc676971d10b1bed5abdf9350f3e12bbcbb6f09","modified":1707127697000},{"_id":"source/assets/blogImg/photo.png","hash":"0d0841ceefd66337d967bf8988881dc41ed8ecdc","modified":1707219399576},{"_id":"source/gallery/20240202_155640.jpg","hash":"ce0232dcb9f4a04f3e18db6049410f732f1f54e6","modified":1707211104677},{"_id":"node_modules/hexo-theme-aomori/.babelrc","hash":"98714b5432f56c788e08a5194f2f33148da6ca63","modified":1707058729852},{"_id":"node_modules/hexo-theme-aomori/_config.yml","hash":"7b06be8d7fdf7f3849c29d2b9904e57095069ba4","modified":1707058730404},{"_id":"node_modules/hexo-theme-aomori/.eslintignore","hash":"0d8193103ddb9947903ebb5204cf1e188902f1f8","modified":1707058729852},{"_id":"node_modules/hexo-theme-aomori/package.json","hash":"694d645c6702d16d45607ab2f0ed65f165c968f6","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/layout/page.ejs","hash":"981602cac2f5d82522f6d2dd8e6e8167bb004ee7","modified":1707071529122},{"_id":"node_modules/hexo-theme-aomori/.github/dependabot.yml","hash":"7e68a5fac86d2eb86706b9ec9e99bd0ce00c15b0","modified":1707058730408},{"_id":"node_modules/hexo-theme-aomori/.eslintrc.js","hash":"7d4dd8cabb411820feb1bfebb14992255fe2b714","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/.prettierrc","hash":"8f8d09c16c9623c6e0a5d8f22b64292ee98a5a4c","modified":1707058729852},{"_id":"node_modules/hexo-theme-aomori/CHANGELOG.md","hash":"45e3f28e7a4085134630a77b499670a8bcac6df1","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/LICENSE","hash":"df86e662005fc659cb72166664f8360223c10864","modified":1707058729852},{"_id":"node_modules/hexo-theme-aomori/README.md","hash":"9284588f3d73b808fef81ae9eb1544658ee036e0","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/gulpfile.js","hash":"029ff69b9df64bf205ba5b2880e40f09fa1d2177","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/stylelint.config.js","hash":"35805e8a64447c3e9fec8cb7ca619783b4ffa4af","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/article-index.ejs","hash":"a436624e8aeb8c94113566cb1756e5c031cf5d8d","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/article-tweet.ejs","hash":"67045e6d5d4bf141ad3e8a2bf34624ca5938e626","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/article.ejs","hash":"64fd49d64394a8a91030a56012a0131ee113d0a8","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/languages/it.yml","hash":"64a5acadfdcd365474ba1161041f8c5938f59683","modified":1707058730408},{"_id":"node_modules/hexo-theme-aomori/languages/cn.yml","hash":"041cda235156e1a078c27b969cadc4e29d017475","modified":1707058730404},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/footer.ejs","hash":"afe4a2faf735f1c4c2cc8ad0298b8902d9a0d727","modified":1707219399572},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/head.ejs","hash":"ab913099a61d0c83b2b7428c564bad08e8749420","modified":1707219399572},{"_id":"node_modules/hexo-theme-aomori/layout/archive.ejs","hash":"2703b07cc8ac64ae46d1d263f4653013c7e1666b","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/category.ejs","hash":"765426a9c8236828dc34759e604cc2c52292835a","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/index.ejs","hash":"455248eacdc2580373fc9c13641afd8c241a5813","modified":1707071551963},{"_id":"node_modules/hexo-theme-aomori/layout/layout.ejs","hash":"c5dd66db0cea3796abda36146ab38f061c91f39e","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/tag.ejs","hash":"eaa7b4ccb2ca7befb90142e4e68995fb1ea68b2e","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/.github/workflows/action.yml","hash":"da59ad2d1d153ec97069cd74b920ea2e44d8ce3a","modified":1707058730404},{"_id":"node_modules/hexo-theme-aomori/layout/post.ejs","hash":"f80a3073ea72631a26292ba16906b6d692a6e67c","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/languages/ja.yml","hash":"90a615a4f6e9af92ec7695022c475ff4ce3b8081","modified":1707058730408},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/archive-post.ejs","hash":"74371ea0ece20630f686459a3df334b760c6bc55","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/source/modules/lazyload.min.js","hash":"e7efa869cd842c2becc8337dd9cc445cd0fa5000","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/source/modules/md5.min.js","hash":"ab074f76aa161e2851e19733d802a66c9a242387","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/source/modules/nprogress.js","hash":"14757ab1fcf209a4f17c9da3d6abb196fa65cba2","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/source/modules/perfect-scrollbar.min.js","hash":"cd1784e029249ebf5d57de1f677a4a61019706ae","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/archive.ejs","hash":"f15750967beb06d91491aade0b4b00cb76a37dc9","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/header.ejs","hash":"29618017302e56fcb0bcc3a6487bacf6cb668086","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/meta.ejs","hash":"c8c71be685e412afbd8e9b25262e22f483f5e729","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/search.ejs","hash":"1569fd207c3be44ad37b644fb1399416a54779d3","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/sidebar.ejs","hash":"0f049afead13cf54b5e2f3174379d7a79eac0efe","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/social.ejs","hash":"3ab80663dee0f4e3ae33ec4f42874530c7e926ec","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_widget/archive.ejs","hash":"4d00993c9f80ddbce6d4b8317d4c29a4fb1fb139","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_widget/category.ejs","hash":"70bba3e81f42135ffeb2d129834fd5df8aea4c10","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_widget/recent_posts.ejs","hash":"d45e8c7b9c7fec1b8fdeabaa5026f27da0a04304","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_widget/tag.ejs","hash":"e45f32b6c1b3a23c361d2c7dc70207d93c0f71b1","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_widget/toc.ejs","hash":"05a8cea96817332d13bf3ede759e6f72ed0f7973","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/source/dist/custom.css","hash":"225a8abab79b67565badb8d8e9dd73f56537ba28","modified":1707058729856},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/app.js","hash":"6bf67a2221f0dce645467ec0e83f30a242730f39","modified":1707058730040},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/class-module.js","hash":"a771801e8e5528130a947958f605f9fc4c6d913d","modified":1707058730212},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/disqusjs.js","hash":"1152117cee4e335306b79983573721aeb6418d39","modified":1707058730212},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/custom.js","hash":"b186b1ae8921a3bf4d8746ac5f39acc10269ff96","modified":1707058730212},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/gitalk.js","hash":"b2b847d6a4b8866f1a21896ab34b94adc607c6b4","modified":1707058730212},{"_id":"node_modules/hexo-theme-aomori/source/modules/algoliasearch-lite.umd.js","hash":"bcd46b678c70779298df8ffad570ab14e434d292","modified":1707058730040},{"_id":"node_modules/hexo-theme-aomori/source/javascripts/valine.js","hash":"64a97abf6fb7291bccda74f108b5661a9694ebef","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/base.scss","hash":"a26efbbdcf15e8d6e3c044e733294fc6e8bedc77","modified":1707058730396},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/media-fixed.scss","hash":"4b0ff31517a8a3106cf227d85ec305b346cfa69b","modified":1707058730396},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/github.css","hash":"ee593952684a791317ee8b77ad096e729dec649e","modified":1707058729856},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/normalize.css","hash":"ebe0759bf259b6caeadee6137973481046ac5636","modified":1707058729856},{"_id":"node_modules/hexo-theme-aomori/source/modules/tocbot.min.js","hash":"76cd7f7ae727d3883d69a04a4402a46684e4d4d0","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/nprogress.css","hash":"af66636e02bccfe2fdf7c1ad7de1face9bf5ae2d","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/modules/typed.min.js","hash":"ad8a75bd4743122b5dbf517221506607588ec50b","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/perfect-scrollbar.css","hash":"a94e730430930b2e048352996ff44bf28647669d","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/page.scss","hash":"57c6874a0520cb31f2295e5d75c8dabde066b478","modified":1707058730396},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/style.scss","hash":"613fdeba6d7c7a2746e572ede464cd4db42ac570","modified":1707058730404},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/plyr.css","hash":"89c8e024bad75eec921898cae702785d77272dda","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/post.css","hash":"3f06ce944c9f721cdb5ea26c96fa11f9c2f6ec2f","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/remark42.css","hash":"b12749bacee85f203fcd10afd9212838ffef06f3","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre-exp.min.css","hash":"9ca686024f1e3c742a488156e8fcf4f7f5518425","modified":1707058729860},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre-icons.min.css","hash":"0f624fe521e0eb6c1f775f13eb0fb93ab6cf802c","modified":1707058730024},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/spectre.min.css","hash":"419c87aed0f592239f2adcbb6396731c6a7711cc","modified":1707058730028},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/swiper-bundle.min.css","hash":"a1fd2a708504af70216469cbd582cf698db8e461","modified":1707058730028},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/page/default.ejs","hash":"23e0039aeba6413b99319fad4cea4e225aab38a1","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/source/stylesheets/tocbot.css","hash":"635010b494dae3d91d3be1b079b72b26ab2cc5b8","modified":1707058730028},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/page/friends.ejs","hash":"514e137c0e19e06dd3e930a98e5569cf83446b0a","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/ad.ejs","hash":"0a8130bcec7879f830976858b8d0dfe0ba036c01","modified":1707058730028},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/page/photography-item.ejs","hash":"a6c1097d3428110825ca106c1379f2cd8034057f","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/page/photography.ejs","hash":"6a71806820a4d92082d307a0e4dc67976d4038c4","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/category.ejs","hash":"c6bcd0e04271ffca81da25bcff5adf3d46f02fc0","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/comments.ejs","hash":"1502b23d5520b5db6c31c8036187f5373b4eb794","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/copyright.ejs","hash":"4f1f566351a2ddff3f44f854a58f65ba6b28072c","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/date.ejs","hash":"c610dc1283e5d6ae582b9544ee6836e9fcea1b7c","modified":1707058730032},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/nav.ejs","hash":"d86028403ef9a098747712dc3103ed69c5089daa","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/gallery.ejs","hash":"4502ca02780f3054cfaa517c9946d8c0479966cb","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/refer.ejs","hash":"cc1e673e1054b62da356fc066e048b084a03559a","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/reprint.ejs","hash":"75e9c766d19cb0907214e5628e00868b2adb6dcb","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/tag.ejs","hash":"2fcb0bf9c8847a644167a27824c9bb19ac74dd14","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/layout/_partial/post/title.ejs","hash":"2f275739b6f1193c123646a5a31f37d48644c667","modified":1707058730036},{"_id":"node_modules/hexo-theme-aomori/docs/cover.png","hash":"f52354acc7e9e52efcafc2c33e41a4907c541055","modified":1707058730396},{"_id":"node_modules/hexo-theme-aomori/source/modules/highlight.min.js","hash":"5c25af3caf3f02695741a4b989fedcca6cc1e88d","modified":1707058730216},{"_id":"node_modules/hexo-theme-aomori/source/modules/plyr.js","hash":"6bce9267aa6e64f77973f7079cea430d88befca1","modified":1707058730220},{"_id":"node_modules/hexo-theme-aomori/source/dist/build.css","hash":"d08b3ac3ce76582649bf4445c62c99011e3d5583","modified":1707058729856},{"_id":"node_modules/hexo-theme-aomori/source/dist/custom.js","hash":"d7679202f697b6547c456c08bab4edc9b76faaf4","modified":1707058730212},{"_id":"node_modules/hexo-theme-aomori/source/modules/swiper-bundle.min.js","hash":"72bd612182b6c475aa3d896231341a87da680ecb","modified":1707058730224},{"_id":"node_modules/hexo-theme-aomori/source/dist/build.js","hash":"f359132db8fdf12f4d9220cd42ce718c466d0d04","modified":1707058730212},{"_id":"public/about/index.html","hash":"80ccee8ce2859d40c308f707d631dc6939f15f1e","modified":1707219419000},{"_id":"public/gallery/index.html","hash":"db2d707d870f75a15f948f8cc9da65f929cd79ee","modified":1707219419000},{"_id":"public/archives/index.html","hash":"5198367be14b7f80958d97e74ee171b506ecae23","modified":1707219419000},{"_id":"public/archives/2024/index.html","hash":"d387fba65877d2168469615f0de1fe1af8b6c497","modified":1707219419000},{"_id":"public/archives/2024/02/index.html","hash":"28866a378a7d2139422964868d5e018c5d2f035b","modified":1707219419000},{"_id":"public/categories/笔记/index.html","hash":"39377be3f8b9461ef18d842520bd09bef84c7c54","modified":1707219419000},{"_id":"public/tags/Fish/index.html","hash":"15ea9e157c80779e73fa25f2463ef8b67a1077db","modified":1707219419000},{"_id":"public/tags/Tokio/index.html","hash":"6b20c15fb80dd48f00f3e40abe0581a2f6906967","modified":1707219419000},{"_id":"public/2024/02/05/Tokio-Rutime/index.html","hash":"52887cafec137e1bae44e88562ac13959702bd57","modified":1707219419000},{"_id":"public/2024/02/05/Fish-笔记/index.html","hash":"48f7253301ebf2e53a8ddb28b0aedef45ba38a73","modified":1707219419000},{"_id":"public/index.html","hash":"368f7f8d6cc688eebc9f4b408e8fc65e4c341216","modified":1707219419000},{"_id":"public/assets/social_icon/telegram.png","hash":"5cc676971d10b1bed5abdf9350f3e12bbcbb6f09","modified":1707219419000},{"_id":"public/stylesheets/base.scss","hash":"a26efbbdcf15e8d6e3c044e733294fc6e8bedc77","modified":1707219419000},{"_id":"public/stylesheets/media-fixed.scss","hash":"4b0ff31517a8a3106cf227d85ec305b346cfa69b","modified":1707219419000},{"_id":"public/stylesheets/page.scss","hash":"57c6874a0520cb31f2295e5d75c8dabde066b478","modified":1707219419000},{"_id":"public/stylesheets/style.scss","hash":"613fdeba6d7c7a2746e572ede464cd4db42ac570","modified":1707219419000},{"_id":"public/gallery/20240202_155640.jpg","hash":"ce0232dcb9f4a04f3e18db6049410f732f1f54e6","modified":1707219419000},{"_id":"public/assets/blogImg/photo.png","hash":"0d0841ceefd66337d967bf8988881dc41ed8ecdc","modified":1707219419000},{"_id":"public/javascripts/app.js","hash":"6bf67a2221f0dce645467ec0e83f30a242730f39","modified":1707219419000},{"_id":"public/javascripts/class-module.js","hash":"a771801e8e5528130a947958f605f9fc4c6d913d","modified":1707219419000},{"_id":"public/javascripts/custom.js","hash":"b186b1ae8921a3bf4d8746ac5f39acc10269ff96","modified":1707219419000},{"_id":"public/javascripts/disqusjs.js","hash":"1152117cee4e335306b79983573721aeb6418d39","modified":1707219419000},{"_id":"public/javascripts/gitalk.js","hash":"b2b847d6a4b8866f1a21896ab34b94adc607c6b4","modified":1707219419000},{"_id":"public/javascripts/valine.js","hash":"64a97abf6fb7291bccda74f108b5661a9694ebef","modified":1707219419000},{"_id":"public/modules/algoliasearch-lite.umd.js","hash":"bcd46b678c70779298df8ffad570ab14e434d292","modified":1707219419000},{"_id":"public/modules/lazyload.min.js","hash":"a9b706094ef95a2f4ce0ec6eef0181951c5a7208","modified":1707219419000},{"_id":"public/modules/md5.min.js","hash":"ab074f76aa161e2851e19733d802a66c9a242387","modified":1707219419000},{"_id":"public/modules/nprogress.js","hash":"14757ab1fcf209a4f17c9da3d6abb196fa65cba2","modified":1707219419000},{"_id":"public/modules/tocbot.min.js","hash":"76cd7f7ae727d3883d69a04a4402a46684e4d4d0","modified":1707219419000},{"_id":"public/modules/typed.min.js","hash":"ad8a75bd4743122b5dbf517221506607588ec50b","modified":1707219419000},{"_id":"public/stylesheets/github.css","hash":"ee593952684a791317ee8b77ad096e729dec649e","modified":1707219419000},{"_id":"public/stylesheets/normalize.css","hash":"ebe0759bf259b6caeadee6137973481046ac5636","modified":1707219419000},{"_id":"public/stylesheets/nprogress.css","hash":"af66636e02bccfe2fdf7c1ad7de1face9bf5ae2d","modified":1707219419000},{"_id":"public/stylesheets/perfect-scrollbar.css","hash":"a94e730430930b2e048352996ff44bf28647669d","modified":1707219419000},{"_id":"public/stylesheets/post.css","hash":"3f06ce944c9f721cdb5ea26c96fa11f9c2f6ec2f","modified":1707219419000},{"_id":"public/stylesheets/remark42.css","hash":"b12749bacee85f203fcd10afd9212838ffef06f3","modified":1707219419000},{"_id":"public/stylesheets/spectre-icons.min.css","hash":"0f624fe521e0eb6c1f775f13eb0fb93ab6cf802c","modified":1707219419000},{"_id":"public/stylesheets/swiper-bundle.min.css","hash":"a1fd2a708504af70216469cbd582cf698db8e461","modified":1707219419000},{"_id":"public/stylesheets/tocbot.css","hash":"635010b494dae3d91d3be1b079b72b26ab2cc5b8","modified":1707219419000},{"_id":"public/dist/build.css","hash":"d08b3ac3ce76582649bf4445c62c99011e3d5583","modified":1707219419000},{"_id":"public/dist/build.js","hash":"a36f7dc0df1c252b2f407ceed1bb2bd6f31ba2ce","modified":1707219419000},{"_id":"public/dist/custom.css","hash":"225a8abab79b67565badb8d8e9dd73f56537ba28","modified":1707219419000},{"_id":"public/dist/custom.js","hash":"d7679202f697b6547c456c08bab4edc9b76faaf4","modified":1707219419000},{"_id":"public/modules/highlight.min.js","hash":"5c25af3caf3f02695741a4b989fedcca6cc1e88d","modified":1707219419000},{"_id":"public/modules/perfect-scrollbar.min.js","hash":"cd1784e029249ebf5d57de1f677a4a61019706ae","modified":1707219419000},{"_id":"public/modules/plyr.js","hash":"6bce9267aa6e64f77973f7079cea430d88befca1","modified":1707219419000},{"_id":"public/modules/swiper-bundle.min.js","hash":"72bd612182b6c475aa3d896231341a87da680ecb","modified":1707219419000},{"_id":"public/stylesheets/plyr.css","hash":"89c8e024bad75eec921898cae702785d77272dda","modified":1707219419000},{"_id":"public/stylesheets/spectre-exp.min.css","hash":"9ca686024f1e3c742a488156e8fcf4f7f5518425","modified":1707219419000},{"_id":"public/stylesheets/spectre.min.css","hash":"419c87aed0f592239f2adcbb6396731c6a7711cc","modified":1707219419000}],"Category":[{"name":"笔记","_id":"clsaad2o500046tkodz3efvrx"}],"Data":[{"_id":"photography","data":[{"thumbnail":"/gallery/20240202_155640.jpg","photo":"/gallery/20240202_155640.jpg","title":"This is title.","icon":"camera","place":"China"}]}],"Page":[{"title":"about","date":"2024-02-05T10:31:59.000Z","_content":"","source":"about/index.md","raw":"---\ntitle: about\ndate: 2024-02-05 18:31:59\n---\n","updated":"2024-02-05T10:31:59.261Z","path":"about/index.html","comments":1,"layout":"page","_id":"clsaad2nx00006tkobb0lfss6","content":"","excerpt":"","more":""},{"title":"Gallery","layout":"photography","sidebar":false,"_content":"\n","source":"gallery/index.md","raw":"---\ntitle: Gallery # 文章标题\nlayout: photography\nsidebar: false\n---\n\n","date":"2024-02-06T09:18:24.677Z","updated":"2024-02-06T09:18:24.677Z","path":"gallery/index.html","comments":1,"_id":"clsaad2o300026tkoesy48lew","content":"","excerpt":"","more":""}],"Post":[{"title":"Fish 笔记","date":"2024-02-04T17:35:15.000Z","_content":"#笔记\n\nFish 脚本的 `shebang` 行，在文件开头加入这一行。\n\n```sh\n#!/usr/bin/fish\n```\n\n## 变量\n\nFish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。\n\n```sh\nset VAL \"Some value\"\nset CMD_VALUE = (uptime)\n```\n\n### 作用域\n\n变量基本上有三种作用域\n\n* 本地变量 local：只存在于函数内，使用 `-l` 设置。\n\n- 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。\n\n* 通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 `-U/-gx` 设置。\n\n### 列表\n\nFish 中所有变量都可以是列表\n\n```sh\nset LIST \"One\" \"Two\" \"Three\"\necho $LIST[1] # \"One\"\necho $LIST[2] # \"Two\"\necho $LIST[3] # \"Three\"\necho $LIST[-1] # \"Three\"\necho $LIST[1..3] # \"One\" \"Two\" \"Three\"\n```\n\n## 循环\n\n### for\n\n大致与 Rust 一样。\n\n```sh\nfor VAL in &LIST\n  echo $VAL\nend\n```\n\n### while\n\n```sh\nfor VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n```\n\n## 条件语句\n\nif 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。\n\n### 常规的条件检查\n\n```sh\nif test (count $argv) -lt 2\n    echo \"Usage: my-script <arg1> <arg2>\"\n    echo \"Eg: <arg1> can be 'foo', <arg2> can be 'bar'\"\nelse\n    echo \"Do something with $arg1 $arg2\"\nend\n```\n\n### 变量比较\n\n```sh\nset V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo \"Err()\"\nend\n```\n\n### 检查文件是否存在\n\n```sh\nif test -e \"file.sh\"\n    echo \"somefile exists\"\nend\n```\n\n### 检查文件夹是否存在\n\n```sh\nif test -d \"somefolder\"\n  echo \"somefolder exists\"\nend\n```\n\n### 通配符情况\n\n```sh\nset file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo \"Move $file to Download dir\"\nelse\n    echo \"No python file found in dir\"\nend\n```","source":"_posts/Fish-笔记.md","raw":"---\ntitle: Fish 笔记\ndate: 2024-02-05 01:35:15\ntags: Fish\ncategories: 笔记\n---\n#笔记\n\nFish 脚本的 `shebang` 行，在文件开头加入这一行。\n\n```sh\n#!/usr/bin/fish\n```\n\n## 变量\n\nFish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。\n\n```sh\nset VAL \"Some value\"\nset CMD_VALUE = (uptime)\n```\n\n### 作用域\n\n变量基本上有三种作用域\n\n* 本地变量 local：只存在于函数内，使用 `-l` 设置。\n\n- 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。\n\n* 通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 `-U/-gx` 设置。\n\n### 列表\n\nFish 中所有变量都可以是列表\n\n```sh\nset LIST \"One\" \"Two\" \"Three\"\necho $LIST[1] # \"One\"\necho $LIST[2] # \"Two\"\necho $LIST[3] # \"Three\"\necho $LIST[-1] # \"Three\"\necho $LIST[1..3] # \"One\" \"Two\" \"Three\"\n```\n\n## 循环\n\n### for\n\n大致与 Rust 一样。\n\n```sh\nfor VAL in &LIST\n  echo $VAL\nend\n```\n\n### while\n\n```sh\nfor VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n```\n\n## 条件语句\n\nif 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。\n\n### 常规的条件检查\n\n```sh\nif test (count $argv) -lt 2\n    echo \"Usage: my-script <arg1> <arg2>\"\n    echo \"Eg: <arg1> can be 'foo', <arg2> can be 'bar'\"\nelse\n    echo \"Do something with $arg1 $arg2\"\nend\n```\n\n### 变量比较\n\n```sh\nset V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo \"Err()\"\nend\n```\n\n### 检查文件是否存在\n\n```sh\nif test -e \"file.sh\"\n    echo \"somefile exists\"\nend\n```\n\n### 检查文件夹是否存在\n\n```sh\nif test -d \"somefolder\"\n  echo \"somefolder exists\"\nend\n```\n\n### 通配符情况\n\n```sh\nset file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo \"Move $file to Download dir\"\nelse\n    echo \"No python file found in dir\"\nend\n```","slug":"Fish-笔记","published":1,"updated":"2024-02-04T18:41:56.875Z","comments":1,"layout":"post","photos":[],"_id":"clsaad2o000016tko39rch4ni","content":"<p>#笔记</p>\n<p>Fish 脚本的 <code>shebang</code> 行，在文件开头加入这一行。</p>\n<pre><code class=\"sh\">#!/usr/bin/fish\n</code></pre>\n<h2 id=\"变量\"><a href=\"#变量\" class=\"headerlink\" title=\"变量\"></a>变量</h2><p>Fish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。</p>\n<pre><code class=\"sh\">set VAL &quot;Some value&quot;\nset CMD_VALUE = (uptime)\n</code></pre>\n<h3 id=\"作用域\"><a href=\"#作用域\" class=\"headerlink\" title=\"作用域\"></a>作用域</h3><p>变量基本上有三种作用域</p>\n<ul>\n<li>本地变量 local：只存在于函数内，使用 <code>-l</code> 设置。</li>\n</ul>\n<ul>\n<li>全局变量 global：可用于同一 Shell 中的所有函，使用 <code>-g</code> 设置。</li>\n</ul>\n<ul>\n<li>通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 <code>-U/-gx</code> 设置。</li>\n</ul>\n<h3 id=\"列表\"><a href=\"#列表\" class=\"headerlink\" title=\"列表\"></a>列表</h3><p>Fish 中所有变量都可以是列表</p>\n<pre><code class=\"sh\">set LIST &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\necho $LIST[1] # &quot;One&quot;\necho $LIST[2] # &quot;Two&quot;\necho $LIST[3] # &quot;Three&quot;\necho $LIST[-1] # &quot;Three&quot;\necho $LIST[1..3] # &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\n</code></pre>\n<h2 id=\"循环\"><a href=\"#循环\" class=\"headerlink\" title=\"循环\"></a>循环</h2><h3 id=\"for\"><a href=\"#for\" class=\"headerlink\" title=\"for\"></a>for</h3><p>大致与 Rust 一样。</p>\n<pre><code class=\"sh\">for VAL in &amp;LIST\n  echo $VAL\nend\n</code></pre>\n<h3 id=\"while\"><a href=\"#while\" class=\"headerlink\" title=\"while\"></a>while</h3><pre><code class=\"sh\">for VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n</code></pre>\n<h2 id=\"条件语句\"><a href=\"#条件语句\" class=\"headerlink\" title=\"条件语句\"></a>条件语句</h2><p>if 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。</p>\n<h3 id=\"常规的条件检查\"><a href=\"#常规的条件检查\" class=\"headerlink\" title=\"常规的条件检查\"></a>常规的条件检查</h3><pre><code class=\"sh\">if test (count $argv) -lt 2\n    echo &quot;Usage: my-script &lt;arg1&gt; &lt;arg2&gt;&quot;\n    echo &quot;Eg: &lt;arg1&gt; can be &#39;foo&#39;, &lt;arg2&gt; can be &#39;bar&#39;&quot;\nelse\n    echo &quot;Do something with $arg1 $arg2&quot;\nend\n</code></pre>\n<h3 id=\"变量比较\"><a href=\"#变量比较\" class=\"headerlink\" title=\"变量比较\"></a>变量比较</h3><pre><code class=\"sh\">set V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo &quot;Err()&quot;\nend\n</code></pre>\n<h3 id=\"检查文件是否存在\"><a href=\"#检查文件是否存在\" class=\"headerlink\" title=\"检查文件是否存在\"></a>检查文件是否存在</h3><pre><code class=\"sh\">if test -e &quot;file.sh&quot;\n    echo &quot;somefile exists&quot;\nend\n</code></pre>\n<h3 id=\"检查文件夹是否存在\"><a href=\"#检查文件夹是否存在\" class=\"headerlink\" title=\"检查文件夹是否存在\"></a>检查文件夹是否存在</h3><pre><code class=\"sh\">if test -d &quot;somefolder&quot;\n  echo &quot;somefolder exists&quot;\nend\n</code></pre>\n<h3 id=\"通配符情况\"><a href=\"#通配符情况\" class=\"headerlink\" title=\"通配符情况\"></a>通配符情况</h3><pre><code class=\"sh\">set file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo &quot;Move $file to Download dir&quot;\nelse\n    echo &quot;No python file found in dir&quot;\nend\n</code></pre>\n","excerpt":"","more":"<p>#笔记</p>\n<p>Fish 脚本的 <code>shebang</code> 行，在文件开头加入这一行。</p>\n<pre><code class=\"sh\">#!/usr/bin/fish\n</code></pre>\n<h2 id=\"变量\"><a href=\"#变量\" class=\"headerlink\" title=\"变量\"></a>变量</h2><p>Fish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。</p>\n<pre><code class=\"sh\">set VAL &quot;Some value&quot;\nset CMD_VALUE = (uptime)\n</code></pre>\n<h3 id=\"作用域\"><a href=\"#作用域\" class=\"headerlink\" title=\"作用域\"></a>作用域</h3><p>变量基本上有三种作用域</p>\n<ul>\n<li>本地变量 local：只存在于函数内，使用 <code>-l</code> 设置。</li>\n</ul>\n<ul>\n<li>全局变量 global：可用于同一 Shell 中的所有函，使用 <code>-g</code> 设置。</li>\n</ul>\n<ul>\n<li>通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 <code>-U/-gx</code> 设置。</li>\n</ul>\n<h3 id=\"列表\"><a href=\"#列表\" class=\"headerlink\" title=\"列表\"></a>列表</h3><p>Fish 中所有变量都可以是列表</p>\n<pre><code class=\"sh\">set LIST &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\necho $LIST[1] # &quot;One&quot;\necho $LIST[2] # &quot;Two&quot;\necho $LIST[3] # &quot;Three&quot;\necho $LIST[-1] # &quot;Three&quot;\necho $LIST[1..3] # &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\n</code></pre>\n<h2 id=\"循环\"><a href=\"#循环\" class=\"headerlink\" title=\"循环\"></a>循环</h2><h3 id=\"for\"><a href=\"#for\" class=\"headerlink\" title=\"for\"></a>for</h3><p>大致与 Rust 一样。</p>\n<pre><code class=\"sh\">for VAL in &amp;LIST\n  echo $VAL\nend\n</code></pre>\n<h3 id=\"while\"><a href=\"#while\" class=\"headerlink\" title=\"while\"></a>while</h3><pre><code class=\"sh\">for VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n</code></pre>\n<h2 id=\"条件语句\"><a href=\"#条件语句\" class=\"headerlink\" title=\"条件语句\"></a>条件语句</h2><p>if 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。</p>\n<h3 id=\"常规的条件检查\"><a href=\"#常规的条件检查\" class=\"headerlink\" title=\"常规的条件检查\"></a>常规的条件检查</h3><pre><code class=\"sh\">if test (count $argv) -lt 2\n    echo &quot;Usage: my-script &lt;arg1&gt; &lt;arg2&gt;&quot;\n    echo &quot;Eg: &lt;arg1&gt; can be &#39;foo&#39;, &lt;arg2&gt; can be &#39;bar&#39;&quot;\nelse\n    echo &quot;Do something with $arg1 $arg2&quot;\nend\n</code></pre>\n<h3 id=\"变量比较\"><a href=\"#变量比较\" class=\"headerlink\" title=\"变量比较\"></a>变量比较</h3><pre><code class=\"sh\">set V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo &quot;Err()&quot;\nend\n</code></pre>\n<h3 id=\"检查文件是否存在\"><a href=\"#检查文件是否存在\" class=\"headerlink\" title=\"检查文件是否存在\"></a>检查文件是否存在</h3><pre><code class=\"sh\">if test -e &quot;file.sh&quot;\n    echo &quot;somefile exists&quot;\nend\n</code></pre>\n<h3 id=\"检查文件夹是否存在\"><a href=\"#检查文件夹是否存在\" class=\"headerlink\" title=\"检查文件夹是否存在\"></a>检查文件夹是否存在</h3><pre><code class=\"sh\">if test -d &quot;somefolder&quot;\n  echo &quot;somefolder exists&quot;\nend\n</code></pre>\n<h3 id=\"通配符情况\"><a href=\"#通配符情况\" class=\"headerlink\" title=\"通配符情况\"></a>通配符情况</h3><pre><code class=\"sh\">set file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo &quot;Move $file to Download dir&quot;\nelse\n    echo &quot;No python file found in dir&quot;\nend\n</code></pre>\n"},{"title":"Tokio Rutime","date":"2024-02-04T17:45:02.000Z","_content":"\nRuntime 异步运行时。\n\n## 创建\n可以使用 Runtime Builder 来创建和配置运行时环境。\n```rust\n// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n```\n\ntokio 提供两种运行时模式。\n- 单线程适合密集计算的场景。\n- 多线程模式适合多IO的场景。\n\n可以这样来创建不同的模式：\n```rust\n// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n```\n\n也可以使用简单的方式创建运行时:\n```rust\n#[tokio::main]\nasync fn main() {}\n```\n\n具体来说有这几种:\n```rust\n#[tokio::main(flavor = \"multi_thread\")] // 等价于#[tokio::main]\n#[tokio::main((flavor = \"multi_thread\", worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n```\n\n## 在 Runtime 中执行任务\n使用 tokio 的 sleep 来解释。\n\n\n> `tokio::time` 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。\n\n\n### block_on\n\n```rust\nfn main() {\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async {\n        println!(\"before sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(\"after sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n    });\n}\n```\nblock_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。\n\nblock_on 返回异步任务的返回值。\n\n### spawn\n有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。\n```rust\nuse std::thread;\n\nuse chrono::Local;\nuse tokio::{self, runtime::Runtime, time};\n\nfn now() -> String {\n    Local::now().format(\"%F %T\").to_string()\n}\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() {\n  println!(\"create an async task: {}\", now());\n  tokio::spawn(async {\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(\"async task over: {}\", now());\n  });\n}\n\nfn main() {\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async {\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    });\n}\n```\n\n## 进入 Runtime\n使用 `entry()` 进入 Runtime 时，不会阻塞当前线程，他会返回一个 `EnterGuard` 仅用于表示所有任务都在 Runtime 中执行 知道被删除。\n\n在删除`EnterGuard`后可以进入到另一个``EnterGuard`` 。\n```rust\nuse std::time::Duration;\nuse chrono::Local;\nuse tokio::{self, time::sleep};\n\nfn main() {\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\t.worker_threads(8)\n\t.enable_io()\n\t.enable_time()\n\t.build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async {\n\tprintln!(\"Gruad 1 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 1 end: {}\\n\", now());\n});\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async {\n\tprintln!(\"Gruad 2 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 2 end: {}\\n\", now());\n});\n\nstd::thread::sleep(Duration::from_secs(10));\n}\n\nfn now() -> String {\n\tLocal::now().format(\"%F %T%.3f\").to_string()\n}\n```\n\n## tokio 的两种线程\n首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。\n其次是阻塞线程，他用于会长时间阻塞或者同步的任务。\n阻塞线程默认是不存在的，只有在调用了`spawn_blocking()`时才会创建一个对应的阻塞线程。","source":"_posts/Tokio-Rutime.md","raw":"---\ntitle: Tokio Rutime\ndate: 2024-02-05 01:45:02\ntags: Tokio\ncategories: 笔记\n---\n\nRuntime 异步运行时。\n\n## 创建\n可以使用 Runtime Builder 来创建和配置运行时环境。\n```rust\n// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n```\n\ntokio 提供两种运行时模式。\n- 单线程适合密集计算的场景。\n- 多线程模式适合多IO的场景。\n\n可以这样来创建不同的模式：\n```rust\n// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n```\n\n也可以使用简单的方式创建运行时:\n```rust\n#[tokio::main]\nasync fn main() {}\n```\n\n具体来说有这几种:\n```rust\n#[tokio::main(flavor = \"multi_thread\")] // 等价于#[tokio::main]\n#[tokio::main((flavor = \"multi_thread\", worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n```\n\n## 在 Runtime 中执行任务\n使用 tokio 的 sleep 来解释。\n\n\n> `tokio::time` 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。\n\n\n### block_on\n\n```rust\nfn main() {\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async {\n        println!(\"before sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(\"after sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n    });\n}\n```\nblock_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。\n\nblock_on 返回异步任务的返回值。\n\n### spawn\n有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。\n```rust\nuse std::thread;\n\nuse chrono::Local;\nuse tokio::{self, runtime::Runtime, time};\n\nfn now() -> String {\n    Local::now().format(\"%F %T\").to_string()\n}\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() {\n  println!(\"create an async task: {}\", now());\n  tokio::spawn(async {\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(\"async task over: {}\", now());\n  });\n}\n\nfn main() {\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async {\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    });\n}\n```\n\n## 进入 Runtime\n使用 `entry()` 进入 Runtime 时，不会阻塞当前线程，他会返回一个 `EnterGuard` 仅用于表示所有任务都在 Runtime 中执行 知道被删除。\n\n在删除`EnterGuard`后可以进入到另一个``EnterGuard`` 。\n```rust\nuse std::time::Duration;\nuse chrono::Local;\nuse tokio::{self, time::sleep};\n\nfn main() {\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\t.worker_threads(8)\n\t.enable_io()\n\t.enable_time()\n\t.build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async {\n\tprintln!(\"Gruad 1 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 1 end: {}\\n\", now());\n});\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async {\n\tprintln!(\"Gruad 2 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 2 end: {}\\n\", now());\n});\n\nstd::thread::sleep(Duration::from_secs(10));\n}\n\nfn now() -> String {\n\tLocal::now().format(\"%F %T%.3f\").to_string()\n}\n```\n\n## tokio 的两种线程\n首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。\n其次是阻塞线程，他用于会长时间阻塞或者同步的任务。\n阻塞线程默认是不存在的，只有在调用了`spawn_blocking()`时才会创建一个对应的阻塞线程。","slug":"Tokio-Rutime","published":1,"updated":"2024-02-05T09:28:19.120Z","comments":1,"layout":"post","photos":[],"_id":"clsaad2o400036tko3d6929xr","content":"<p>Runtime 异步运行时。</p>\n<h2 id=\"创建\"><a href=\"#创建\" class=\"headerlink\" title=\"创建\"></a>创建</h2><p>可以使用 Runtime Builder 来创建和配置运行时环境。</p>\n<pre><code class=\"rust\">// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n</code></pre>\n<p>tokio 提供两种运行时模式。</p>\n<ul>\n<li>单线程适合密集计算的场景。</li>\n<li>多线程模式适合多IO的场景。</li>\n</ul>\n<p>可以这样来创建不同的模式：</p>\n<pre><code class=\"rust\">// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n</code></pre>\n<p>也可以使用简单的方式创建运行时:</p>\n<pre><code class=\"rust\">#[tokio::main]\nasync fn main() &#123;&#125;\n</code></pre>\n<p>具体来说有这几种:</p>\n<pre><code class=\"rust\">#[tokio::main(flavor = &quot;multi_thread&quot;)] // 等价于#[tokio::main]\n#[tokio::main((flavor = &quot;multi_thread&quot;, worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n</code></pre>\n<h2 id=\"在-Runtime-中执行任务\"><a href=\"#在-Runtime-中执行任务\" class=\"headerlink\" title=\"在 Runtime 中执行任务\"></a>在 Runtime 中执行任务</h2><p>使用 tokio 的 sleep 来解释。</p>\n<blockquote>\n<p><code>tokio::time</code> 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。</p>\n</blockquote>\n<h3 id=\"block-on\"><a href=\"#block-on\" class=\"headerlink\" title=\"block_on\"></a>block_on</h3><pre><code class=\"rust\">fn main() &#123;\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async &#123;\n        println!(&quot;before sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(&quot;after sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n    &#125;);\n&#125;\n</code></pre>\n<p>block_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。</p>\n<p>block_on 返回异步任务的返回值。</p>\n<h3 id=\"spawn\"><a href=\"#spawn\" class=\"headerlink\" title=\"spawn\"></a>spawn</h3><p>有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。</p>\n<pre><code class=\"rust\">use std::thread;\n\nuse chrono::Local;\nuse tokio::&#123;self, runtime::Runtime, time&#125;;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T&quot;).to_string()\n&#125;\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() &#123;\n  println!(&quot;create an async task: &#123;&#125;&quot;, now());\n  tokio::spawn(async &#123;\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(&quot;async task over: &#123;&#125;&quot;, now());\n  &#125;);\n&#125;\n\nfn main() &#123;\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async &#123;\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    &#125;);\n&#125;\n</code></pre>\n<h2 id=\"进入-Runtime\"><a href=\"#进入-Runtime\" class=\"headerlink\" title=\"进入 Runtime\"></a>进入 Runtime</h2><p>使用 <code>entry()</code> 进入 Runtime 时，不会阻塞当前线程，他会返回一个 <code>EnterGuard</code> 仅用于表示所有任务都在 Runtime 中执行 知道被删除。</p>\n<p>在删除<code>EnterGuard</code>后可以进入到另一个<code>EnterGuard</code> 。</p>\n<pre><code class=\"rust\">use std::time::Duration;\nuse chrono::Local;\nuse tokio::&#123;self, time::sleep&#125;;\n\nfn main() &#123;\nlet rt = tokio::runtime::Builder::new_multi_thread()\n    .worker_threads(8)\n    .enable_io()\n    .enable_time()\n    .build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async &#123;\n    println!(&quot;Gruad 1 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 1 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async &#123;\n    println!(&quot;Gruad 2 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 2 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\nstd::thread::sleep(Duration::from_secs(10));\n&#125;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T%.3f&quot;).to_string()\n&#125;\n</code></pre>\n<h2 id=\"tokio-的两种线程\"><a href=\"#tokio-的两种线程\" class=\"headerlink\" title=\"tokio 的两种线程\"></a>tokio 的两种线程</h2><p>首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。<br>其次是阻塞线程，他用于会长时间阻塞或者同步的任务。<br>阻塞线程默认是不存在的，只有在调用了<code>spawn_blocking()</code>时才会创建一个对应的阻塞线程。</p>\n","excerpt":"","more":"<p>Runtime 异步运行时。</p>\n<h2 id=\"创建\"><a href=\"#创建\" class=\"headerlink\" title=\"创建\"></a>创建</h2><p>可以使用 Runtime Builder 来创建和配置运行时环境。</p>\n<pre><code class=\"rust\">// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n</code></pre>\n<p>tokio 提供两种运行时模式。</p>\n<ul>\n<li>单线程适合密集计算的场景。</li>\n<li>多线程模式适合多IO的场景。</li>\n</ul>\n<p>可以这样来创建不同的模式：</p>\n<pre><code class=\"rust\">// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n</code></pre>\n<p>也可以使用简单的方式创建运行时:</p>\n<pre><code class=\"rust\">#[tokio::main]\nasync fn main() &#123;&#125;\n</code></pre>\n<p>具体来说有这几种:</p>\n<pre><code class=\"rust\">#[tokio::main(flavor = &quot;multi_thread&quot;)] // 等价于#[tokio::main]\n#[tokio::main((flavor = &quot;multi_thread&quot;, worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n</code></pre>\n<h2 id=\"在-Runtime-中执行任务\"><a href=\"#在-Runtime-中执行任务\" class=\"headerlink\" title=\"在 Runtime 中执行任务\"></a>在 Runtime 中执行任务</h2><p>使用 tokio 的 sleep 来解释。</p>\n<blockquote>\n<p><code>tokio::time</code> 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。</p>\n</blockquote>\n<h3 id=\"block-on\"><a href=\"#block-on\" class=\"headerlink\" title=\"block_on\"></a>block_on</h3><pre><code class=\"rust\">fn main() &#123;\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async &#123;\n        println!(&quot;before sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(&quot;after sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n    &#125;);\n&#125;\n</code></pre>\n<p>block_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。</p>\n<p>block_on 返回异步任务的返回值。</p>\n<h3 id=\"spawn\"><a href=\"#spawn\" class=\"headerlink\" title=\"spawn\"></a>spawn</h3><p>有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。</p>\n<pre><code class=\"rust\">use std::thread;\n\nuse chrono::Local;\nuse tokio::&#123;self, runtime::Runtime, time&#125;;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T&quot;).to_string()\n&#125;\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() &#123;\n  println!(&quot;create an async task: &#123;&#125;&quot;, now());\n  tokio::spawn(async &#123;\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(&quot;async task over: &#123;&#125;&quot;, now());\n  &#125;);\n&#125;\n\nfn main() &#123;\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async &#123;\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    &#125;);\n&#125;\n</code></pre>\n<h2 id=\"进入-Runtime\"><a href=\"#进入-Runtime\" class=\"headerlink\" title=\"进入 Runtime\"></a>进入 Runtime</h2><p>使用 <code>entry()</code> 进入 Runtime 时，不会阻塞当前线程，他会返回一个 <code>EnterGuard</code> 仅用于表示所有任务都在 Runtime 中执行 知道被删除。</p>\n<p>在删除<code>EnterGuard</code>后可以进入到另一个<code>EnterGuard</code> 。</p>\n<pre><code class=\"rust\">use std::time::Duration;\nuse chrono::Local;\nuse tokio::&#123;self, time::sleep&#125;;\n\nfn main() &#123;\nlet rt = tokio::runtime::Builder::new_multi_thread()\n    .worker_threads(8)\n    .enable_io()\n    .enable_time()\n    .build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async &#123;\n    println!(&quot;Gruad 1 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 1 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async &#123;\n    println!(&quot;Gruad 2 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 2 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\nstd::thread::sleep(Duration::from_secs(10));\n&#125;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T%.3f&quot;).to_string()\n&#125;\n</code></pre>\n<h2 id=\"tokio-的两种线程\"><a href=\"#tokio-的两种线程\" class=\"headerlink\" title=\"tokio 的两种线程\"></a>tokio 的两种线程</h2><p>首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。<br>其次是阻塞线程，他用于会长时间阻塞或者同步的任务。<br>阻塞线程默认是不存在的，只有在调用了<code>spawn_blocking()</code>时才会创建一个对应的阻塞线程。</p>\n"}],"PostAsset":[],"PostCategory":[{"post_id":"clsaad2o000016tko39rch4ni","category_id":"clsaad2o500046tkodz3efvrx","_id":"clsaad2oa00096tko63kc4nd0"},{"post_id":"clsaad2o400036tko3d6929xr","category_id":"clsaad2o500046tkodz3efvrx","_id":"clsaad2oa000b6tko49qk26qh"}],"PostTag":[{"post_id":"clsaad2o000016tko39rch4ni","tag_id":"clsaad2o700056tko84vz95o0","_id":"clsaad2o900086tko2exn0qt5"},{"post_id":"clsaad2o400036tko3d6929xr","tag_id":"clsaad2o800076tkoc98fhdzi","_id":"clsaad2oa000a6tkohwkb9cu0"}],"Tag":[{"name":"Fish","_id":"clsaad2o700056tko84vz95o0"},{"name":"Tokio","_id":"clsaad2o800076tkoc98fhdzi"}]}}
+{
+    "meta": {
+        "version": 1,
+        "warehouse": "5.0.1"
+    },
+    "models": {
+        "Asset": [
+            {
+                "_id": "source/gallery/20240202_155640.jpg",
+                "path": "gallery/20240202_155640.jpg",
+                "modified": 1,
+                "renderable": 0
+            },
+            {
+                "_id": "source/assets/blogImg/photo.png",
+                "path": "assets/blogImg/photo.png",
+                "modified": 1,
+                "renderable": 0
+            },
+            {
+                "_id": "source/assets/social_icon/telegram.png",
+                "path": "assets/social_icon/telegram.png",
+                "modified": 1,
+                "renderable": 0
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/build.css",
+                "path": "dist/build.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/build.js",
+                "path": "dist/build.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/custom.css",
+                "path": "dist/custom.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/custom.js",
+                "path": "dist/custom.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/app.js",
+                "path": "javascripts/app.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/class-module.js",
+                "path": "javascripts/class-module.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/custom.js",
+                "path": "javascripts/custom.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/disqusjs.js",
+                "path": "javascripts/disqusjs.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/gitalk.js",
+                "path": "javascripts/gitalk.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/valine.js",
+                "path": "javascripts/valine.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/algoliasearch-lite.umd.js",
+                "path": "modules/algoliasearch-lite.umd.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/highlight.min.js",
+                "path": "modules/highlight.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/lazyload.min.js",
+                "path": "modules/lazyload.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/md5.min.js",
+                "path": "modules/md5.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/nprogress.js",
+                "path": "modules/nprogress.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/perfect-scrollbar.min.js",
+                "path": "modules/perfect-scrollbar.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/plyr.js",
+                "path": "modules/plyr.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/swiper-bundle.min.js",
+                "path": "modules/swiper-bundle.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/tocbot.min.js",
+                "path": "modules/tocbot.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/typed.min.js",
+                "path": "modules/typed.min.js",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/base.scss",
+                "path": "stylesheets/base.scss",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/github.css",
+                "path": "stylesheets/github.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/media-fixed.scss",
+                "path": "stylesheets/media-fixed.scss",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/normalize.css",
+                "path": "stylesheets/normalize.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/nprogress.css",
+                "path": "stylesheets/nprogress.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/page.scss",
+                "path": "stylesheets/page.scss",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/perfect-scrollbar.css",
+                "path": "stylesheets/perfect-scrollbar.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/plyr.css",
+                "path": "stylesheets/plyr.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/post.css",
+                "path": "stylesheets/post.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/remark42.css",
+                "path": "stylesheets/remark42.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre-exp.min.css",
+                "path": "stylesheets/spectre-exp.min.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre-icons.min.css",
+                "path": "stylesheets/spectre-icons.min.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre.min.css",
+                "path": "stylesheets/spectre.min.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/style.scss",
+                "path": "stylesheets/style.scss",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/swiper-bundle.min.css",
+                "path": "stylesheets/swiper-bundle.min.css",
+                "modified": 1,
+                "renderable": 1
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/tocbot.css",
+                "path": "stylesheets/tocbot.css",
+                "modified": 1,
+                "renderable": 1
+            }
+        ],
+        "Cache": [
+            {
+                "_id": "source/_posts/Fish-笔记.md",
+                "hash": "12d876cc69cf38c40f81d679a5e2a0cd6057dbb4",
+                "modified": 1707072116875
+            },
+            {
+                "_id": "source/_posts/Tokio-Rutime.md",
+                "hash": "e7afc54d5356003508ce89735087a52b10226e2a",
+                "modified": 1707125299120
+            },
+            {
+                "_id": "source/about/index.md",
+                "hash": "64886913b3517889fe5a60c31dc388e2143aa34b",
+                "modified": 1707129119261
+            },
+            {
+                "_id": "source/_data/photography.json",
+                "hash": "2b559e1a3287eb2942e83ebbd790c95f21208daf",
+                "modified": 1707211104677
+            },
+            {
+                "_id": "source/gallery/index.md",
+                "hash": "d1592067d6d941bd543b0077343c60f21c7c57a3",
+                "modified": 1707211104677
+            },
+            {
+                "_id": "source/assets/social_icon/telegram.png",
+                "hash": "5cc676971d10b1bed5abdf9350f3e12bbcbb6f09",
+                "modified": 1707127697000
+            },
+            {
+                "_id": "source/assets/blogImg/photo.png",
+                "hash": "0d0841ceefd66337d967bf8988881dc41ed8ecdc",
+                "modified": 1707219399576
+            },
+            {
+                "_id": "source/gallery/20240202_155640.jpg",
+                "hash": "ce0232dcb9f4a04f3e18db6049410f732f1f54e6",
+                "modified": 1707211104677
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.babelrc",
+                "hash": "98714b5432f56c788e08a5194f2f33148da6ca63",
+                "modified": 1707058729852
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/_config.yml",
+                "hash": "7b06be8d7fdf7f3849c29d2b9904e57095069ba4",
+                "modified": 1707058730404
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.eslintignore",
+                "hash": "0d8193103ddb9947903ebb5204cf1e188902f1f8",
+                "modified": 1707058729852
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/package.json",
+                "hash": "694d645c6702d16d45607ab2f0ed65f165c968f6",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/page.ejs",
+                "hash": "981602cac2f5d82522f6d2dd8e6e8167bb004ee7",
+                "modified": 1707071529122
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.github/dependabot.yml",
+                "hash": "7e68a5fac86d2eb86706b9ec9e99bd0ce00c15b0",
+                "modified": 1707058730408
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.eslintrc.js",
+                "hash": "7d4dd8cabb411820feb1bfebb14992255fe2b714",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.prettierrc",
+                "hash": "8f8d09c16c9623c6e0a5d8f22b64292ee98a5a4c",
+                "modified": 1707058729852
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/CHANGELOG.md",
+                "hash": "45e3f28e7a4085134630a77b499670a8bcac6df1",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/LICENSE",
+                "hash": "df86e662005fc659cb72166664f8360223c10864",
+                "modified": 1707058729852
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/README.md",
+                "hash": "9284588f3d73b808fef81ae9eb1544658ee036e0",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/gulpfile.js",
+                "hash": "029ff69b9df64bf205ba5b2880e40f09fa1d2177",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/stylelint.config.js",
+                "hash": "35805e8a64447c3e9fec8cb7ca619783b4ffa4af",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/article-index.ejs",
+                "hash": "a436624e8aeb8c94113566cb1756e5c031cf5d8d",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/article-tweet.ejs",
+                "hash": "67045e6d5d4bf141ad3e8a2bf34624ca5938e626",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/article.ejs",
+                "hash": "64fd49d64394a8a91030a56012a0131ee113d0a8",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/languages/it.yml",
+                "hash": "64a5acadfdcd365474ba1161041f8c5938f59683",
+                "modified": 1707058730408
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/languages/cn.yml",
+                "hash": "041cda235156e1a078c27b969cadc4e29d017475",
+                "modified": 1707058730404
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/footer.ejs",
+                "hash": "afe4a2faf735f1c4c2cc8ad0298b8902d9a0d727",
+                "modified": 1707219399572
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/head.ejs",
+                "hash": "ab913099a61d0c83b2b7428c564bad08e8749420",
+                "modified": 1707219399572
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/archive.ejs",
+                "hash": "2703b07cc8ac64ae46d1d263f4653013c7e1666b",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/category.ejs",
+                "hash": "765426a9c8236828dc34759e604cc2c52292835a",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/index.ejs",
+                "hash": "455248eacdc2580373fc9c13641afd8c241a5813",
+                "modified": 1707071551963
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/layout.ejs",
+                "hash": "c5dd66db0cea3796abda36146ab38f061c91f39e",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/tag.ejs",
+                "hash": "eaa7b4ccb2ca7befb90142e4e68995fb1ea68b2e",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/.github/workflows/action.yml",
+                "hash": "da59ad2d1d153ec97069cd74b920ea2e44d8ce3a",
+                "modified": 1707058730404
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/post.ejs",
+                "hash": "f80a3073ea72631a26292ba16906b6d692a6e67c",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/languages/ja.yml",
+                "hash": "90a615a4f6e9af92ec7695022c475ff4ce3b8081",
+                "modified": 1707058730408
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/archive-post.ejs",
+                "hash": "74371ea0ece20630f686459a3df334b760c6bc55",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/lazyload.min.js",
+                "hash": "e7efa869cd842c2becc8337dd9cc445cd0fa5000",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/md5.min.js",
+                "hash": "ab074f76aa161e2851e19733d802a66c9a242387",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/nprogress.js",
+                "hash": "14757ab1fcf209a4f17c9da3d6abb196fa65cba2",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/perfect-scrollbar.min.js",
+                "hash": "cd1784e029249ebf5d57de1f677a4a61019706ae",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/archive.ejs",
+                "hash": "f15750967beb06d91491aade0b4b00cb76a37dc9",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/header.ejs",
+                "hash": "29618017302e56fcb0bcc3a6487bacf6cb668086",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/meta.ejs",
+                "hash": "c8c71be685e412afbd8e9b25262e22f483f5e729",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/search.ejs",
+                "hash": "1569fd207c3be44ad37b644fb1399416a54779d3",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/sidebar.ejs",
+                "hash": "0f049afead13cf54b5e2f3174379d7a79eac0efe",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/social.ejs",
+                "hash": "3ab80663dee0f4e3ae33ec4f42874530c7e926ec",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_widget/archive.ejs",
+                "hash": "4d00993c9f80ddbce6d4b8317d4c29a4fb1fb139",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_widget/category.ejs",
+                "hash": "70bba3e81f42135ffeb2d129834fd5df8aea4c10",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_widget/recent_posts.ejs",
+                "hash": "d45e8c7b9c7fec1b8fdeabaa5026f27da0a04304",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_widget/tag.ejs",
+                "hash": "e45f32b6c1b3a23c361d2c7dc70207d93c0f71b1",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_widget/toc.ejs",
+                "hash": "05a8cea96817332d13bf3ede759e6f72ed0f7973",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/custom.css",
+                "hash": "225a8abab79b67565badb8d8e9dd73f56537ba28",
+                "modified": 1707058729856
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/app.js",
+                "hash": "6bf67a2221f0dce645467ec0e83f30a242730f39",
+                "modified": 1707058730040
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/class-module.js",
+                "hash": "a771801e8e5528130a947958f605f9fc4c6d913d",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/disqusjs.js",
+                "hash": "1152117cee4e335306b79983573721aeb6418d39",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/custom.js",
+                "hash": "b186b1ae8921a3bf4d8746ac5f39acc10269ff96",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/gitalk.js",
+                "hash": "b2b847d6a4b8866f1a21896ab34b94adc607c6b4",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/algoliasearch-lite.umd.js",
+                "hash": "bcd46b678c70779298df8ffad570ab14e434d292",
+                "modified": 1707058730040
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/javascripts/valine.js",
+                "hash": "64a97abf6fb7291bccda74f108b5661a9694ebef",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/base.scss",
+                "hash": "a26efbbdcf15e8d6e3c044e733294fc6e8bedc77",
+                "modified": 1707058730396
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/media-fixed.scss",
+                "hash": "4b0ff31517a8a3106cf227d85ec305b346cfa69b",
+                "modified": 1707058730396
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/github.css",
+                "hash": "ee593952684a791317ee8b77ad096e729dec649e",
+                "modified": 1707058729856
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/normalize.css",
+                "hash": "ebe0759bf259b6caeadee6137973481046ac5636",
+                "modified": 1707058729856
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/tocbot.min.js",
+                "hash": "76cd7f7ae727d3883d69a04a4402a46684e4d4d0",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/nprogress.css",
+                "hash": "af66636e02bccfe2fdf7c1ad7de1face9bf5ae2d",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/typed.min.js",
+                "hash": "ad8a75bd4743122b5dbf517221506607588ec50b",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/perfect-scrollbar.css",
+                "hash": "a94e730430930b2e048352996ff44bf28647669d",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/page.scss",
+                "hash": "57c6874a0520cb31f2295e5d75c8dabde066b478",
+                "modified": 1707058730396
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/style.scss",
+                "hash": "613fdeba6d7c7a2746e572ede464cd4db42ac570",
+                "modified": 1707058730404
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/plyr.css",
+                "hash": "89c8e024bad75eec921898cae702785d77272dda",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/post.css",
+                "hash": "3f06ce944c9f721cdb5ea26c96fa11f9c2f6ec2f",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/remark42.css",
+                "hash": "b12749bacee85f203fcd10afd9212838ffef06f3",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre-exp.min.css",
+                "hash": "9ca686024f1e3c742a488156e8fcf4f7f5518425",
+                "modified": 1707058729860
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre-icons.min.css",
+                "hash": "0f624fe521e0eb6c1f775f13eb0fb93ab6cf802c",
+                "modified": 1707058730024
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/spectre.min.css",
+                "hash": "419c87aed0f592239f2adcbb6396731c6a7711cc",
+                "modified": 1707058730028
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/swiper-bundle.min.css",
+                "hash": "a1fd2a708504af70216469cbd582cf698db8e461",
+                "modified": 1707058730028
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/page/default.ejs",
+                "hash": "23e0039aeba6413b99319fad4cea4e225aab38a1",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/stylesheets/tocbot.css",
+                "hash": "635010b494dae3d91d3be1b079b72b26ab2cc5b8",
+                "modified": 1707058730028
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/page/friends.ejs",
+                "hash": "514e137c0e19e06dd3e930a98e5569cf83446b0a",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/ad.ejs",
+                "hash": "0a8130bcec7879f830976858b8d0dfe0ba036c01",
+                "modified": 1707058730028
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/page/photography-item.ejs",
+                "hash": "a6c1097d3428110825ca106c1379f2cd8034057f",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/page/photography.ejs",
+                "hash": "6a71806820a4d92082d307a0e4dc67976d4038c4",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/category.ejs",
+                "hash": "c6bcd0e04271ffca81da25bcff5adf3d46f02fc0",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/comments.ejs",
+                "hash": "1502b23d5520b5db6c31c8036187f5373b4eb794",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/copyright.ejs",
+                "hash": "4f1f566351a2ddff3f44f854a58f65ba6b28072c",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/date.ejs",
+                "hash": "c610dc1283e5d6ae582b9544ee6836e9fcea1b7c",
+                "modified": 1707058730032
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/nav.ejs",
+                "hash": "d86028403ef9a098747712dc3103ed69c5089daa",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/gallery.ejs",
+                "hash": "4502ca02780f3054cfaa517c9946d8c0479966cb",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/refer.ejs",
+                "hash": "cc1e673e1054b62da356fc066e048b084a03559a",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/reprint.ejs",
+                "hash": "75e9c766d19cb0907214e5628e00868b2adb6dcb",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/tag.ejs",
+                "hash": "2fcb0bf9c8847a644167a27824c9bb19ac74dd14",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/layout/_partial/post/title.ejs",
+                "hash": "2f275739b6f1193c123646a5a31f37d48644c667",
+                "modified": 1707058730036
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/docs/cover.png",
+                "hash": "f52354acc7e9e52efcafc2c33e41a4907c541055",
+                "modified": 1707058730396
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/highlight.min.js",
+                "hash": "5c25af3caf3f02695741a4b989fedcca6cc1e88d",
+                "modified": 1707058730216
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/plyr.js",
+                "hash": "6bce9267aa6e64f77973f7079cea430d88befca1",
+                "modified": 1707058730220
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/build.css",
+                "hash": "d08b3ac3ce76582649bf4445c62c99011e3d5583",
+                "modified": 1707058729856
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/custom.js",
+                "hash": "d7679202f697b6547c456c08bab4edc9b76faaf4",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/modules/swiper-bundle.min.js",
+                "hash": "72bd612182b6c475aa3d896231341a87da680ecb",
+                "modified": 1707058730224
+            },
+            {
+                "_id": "node_modules/hexo-theme-aomori/source/dist/build.js",
+                "hash": "f359132db8fdf12f4d9220cd42ce718c466d0d04",
+                "modified": 1707058730212
+            },
+            {
+                "_id": "public/about/index.html",
+                "hash": "80ccee8ce2859d40c308f707d631dc6939f15f1e",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/gallery/index.html",
+                "hash": "db2d707d870f75a15f948f8cc9da65f929cd79ee",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/archives/index.html",
+                "hash": "5198367be14b7f80958d97e74ee171b506ecae23",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/archives/2024/index.html",
+                "hash": "d387fba65877d2168469615f0de1fe1af8b6c497",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/archives/2024/02/index.html",
+                "hash": "28866a378a7d2139422964868d5e018c5d2f035b",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/categories/笔记/index.html",
+                "hash": "39377be3f8b9461ef18d842520bd09bef84c7c54",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/tags/Fish/index.html",
+                "hash": "15ea9e157c80779e73fa25f2463ef8b67a1077db",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/tags/Tokio/index.html",
+                "hash": "6b20c15fb80dd48f00f3e40abe0581a2f6906967",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/2024/02/05/Tokio-Rutime/index.html",
+                "hash": "52887cafec137e1bae44e88562ac13959702bd57",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/2024/02/05/Fish-笔记/index.html",
+                "hash": "48f7253301ebf2e53a8ddb28b0aedef45ba38a73",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/index.html",
+                "hash": "368f7f8d6cc688eebc9f4b408e8fc65e4c341216",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/assets/social_icon/telegram.png",
+                "hash": "5cc676971d10b1bed5abdf9350f3e12bbcbb6f09",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/base.scss",
+                "hash": "a26efbbdcf15e8d6e3c044e733294fc6e8bedc77",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/media-fixed.scss",
+                "hash": "4b0ff31517a8a3106cf227d85ec305b346cfa69b",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/page.scss",
+                "hash": "57c6874a0520cb31f2295e5d75c8dabde066b478",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/style.scss",
+                "hash": "613fdeba6d7c7a2746e572ede464cd4db42ac570",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/gallery/20240202_155640.jpg",
+                "hash": "ce0232dcb9f4a04f3e18db6049410f732f1f54e6",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/assets/blogImg/photo.png",
+                "hash": "0d0841ceefd66337d967bf8988881dc41ed8ecdc",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/app.js",
+                "hash": "6bf67a2221f0dce645467ec0e83f30a242730f39",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/class-module.js",
+                "hash": "a771801e8e5528130a947958f605f9fc4c6d913d",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/custom.js",
+                "hash": "b186b1ae8921a3bf4d8746ac5f39acc10269ff96",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/disqusjs.js",
+                "hash": "1152117cee4e335306b79983573721aeb6418d39",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/gitalk.js",
+                "hash": "b2b847d6a4b8866f1a21896ab34b94adc607c6b4",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/javascripts/valine.js",
+                "hash": "64a97abf6fb7291bccda74f108b5661a9694ebef",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/algoliasearch-lite.umd.js",
+                "hash": "bcd46b678c70779298df8ffad570ab14e434d292",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/lazyload.min.js",
+                "hash": "a9b706094ef95a2f4ce0ec6eef0181951c5a7208",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/md5.min.js",
+                "hash": "ab074f76aa161e2851e19733d802a66c9a242387",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/nprogress.js",
+                "hash": "14757ab1fcf209a4f17c9da3d6abb196fa65cba2",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/tocbot.min.js",
+                "hash": "76cd7f7ae727d3883d69a04a4402a46684e4d4d0",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/typed.min.js",
+                "hash": "ad8a75bd4743122b5dbf517221506607588ec50b",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/github.css",
+                "hash": "ee593952684a791317ee8b77ad096e729dec649e",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/normalize.css",
+                "hash": "ebe0759bf259b6caeadee6137973481046ac5636",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/nprogress.css",
+                "hash": "af66636e02bccfe2fdf7c1ad7de1face9bf5ae2d",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/perfect-scrollbar.css",
+                "hash": "a94e730430930b2e048352996ff44bf28647669d",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/post.css",
+                "hash": "3f06ce944c9f721cdb5ea26c96fa11f9c2f6ec2f",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/remark42.css",
+                "hash": "b12749bacee85f203fcd10afd9212838ffef06f3",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/spectre-icons.min.css",
+                "hash": "0f624fe521e0eb6c1f775f13eb0fb93ab6cf802c",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/swiper-bundle.min.css",
+                "hash": "a1fd2a708504af70216469cbd582cf698db8e461",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/tocbot.css",
+                "hash": "635010b494dae3d91d3be1b079b72b26ab2cc5b8",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/dist/build.css",
+                "hash": "d08b3ac3ce76582649bf4445c62c99011e3d5583",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/dist/build.js",
+                "hash": "a36f7dc0df1c252b2f407ceed1bb2bd6f31ba2ce",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/dist/custom.css",
+                "hash": "225a8abab79b67565badb8d8e9dd73f56537ba28",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/dist/custom.js",
+                "hash": "d7679202f697b6547c456c08bab4edc9b76faaf4",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/highlight.min.js",
+                "hash": "5c25af3caf3f02695741a4b989fedcca6cc1e88d",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/perfect-scrollbar.min.js",
+                "hash": "cd1784e029249ebf5d57de1f677a4a61019706ae",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/plyr.js",
+                "hash": "6bce9267aa6e64f77973f7079cea430d88befca1",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/modules/swiper-bundle.min.js",
+                "hash": "72bd612182b6c475aa3d896231341a87da680ecb",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/plyr.css",
+                "hash": "89c8e024bad75eec921898cae702785d77272dda",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/spectre-exp.min.css",
+                "hash": "9ca686024f1e3c742a488156e8fcf4f7f5518425",
+                "modified": 1707219419000
+            },
+            {
+                "_id": "public/stylesheets/spectre.min.css",
+                "hash": "419c87aed0f592239f2adcbb6396731c6a7711cc",
+                "modified": 1707219419000
+            }
+        ],
+        "Category": [
+            {
+                "name": "笔记",
+                "_id": "clsaad2o500046tkodz3efvrx"
+            }
+        ],
+        "Data": [
+            {
+                "_id": "photography",
+                "data": [
+                    {
+                        "thumbnail": "/gallery/20240202_155640.jpg",
+                        "photo": "/gallery/20240202_155640.jpg",
+                        "title": "This is title.",
+                        "icon": "camera",
+                        "place": "China"
+                    }
+                ]
+            }
+        ],
+        "Page": [
+            {
+                "title": "about",
+                "date": "2024-02-05T10:31:59.000Z",
+                "_content": "",
+                "source": "about/index.md",
+                "raw": "---\ntitle: about\ndate: 2024-02-05 18:31:59\n---\n",
+                "updated": "2024-02-05T10:31:59.261Z",
+                "path": "about/index.html",
+                "comments": 1,
+                "layout": "page",
+                "_id": "clsaad2nx00006tkobb0lfss6",
+                "content": "",
+                "excerpt": "",
+                "more": ""
+            },
+            {
+                "title": "Gallery",
+                "layout": "photography",
+                "sidebar": false,
+                "_content": "\n",
+                "source": "gallery/index.md",
+                "raw": "---\ntitle: Gallery # 文章标题\nlayout: photography\nsidebar: false\n---\n\n",
+                "date": "2024-02-06T09:18:24.677Z",
+                "updated": "2024-02-06T09:18:24.677Z",
+                "path": "gallery/index.html",
+                "comments": 1,
+                "_id": "clsaad2o300026tkoesy48lew",
+                "content": "",
+                "excerpt": "",
+                "more": ""
+            }
+        ],
+        "Post": [
+            {
+                "title": "Fish 笔记",
+                "date": "2024-02-04T17:35:15.000Z",
+                "_content": "#笔记\n\nFish 脚本的 `shebang` 行，在文件开头加入这一行。\n\n```sh\n#!/usr/bin/fish\n```\n\n## 变量\n\nFish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。\n\n```sh\nset VAL \"Some value\"\nset CMD_VALUE = (uptime)\n```\n\n### 作用域\n\n变量基本上有三种作用域\n\n* 本地变量 local：只存在于函数内，使用 `-l` 设置。\n\n- 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。\n\n* 通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 `-U/-gx` 设置。\n\n### 列表\n\nFish 中所有变量都可以是列表\n\n```sh\nset LIST \"One\" \"Two\" \"Three\"\necho $LIST[1] # \"One\"\necho $LIST[2] # \"Two\"\necho $LIST[3] # \"Three\"\necho $LIST[-1] # \"Three\"\necho $LIST[1..3] # \"One\" \"Two\" \"Three\"\n```\n\n## 循环\n\n### for\n\n大致与 Rust 一样。\n\n```sh\nfor VAL in &LIST\n  echo $VAL\nend\n```\n\n### while\n\n```sh\nfor VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n```\n\n## 条件语句\n\nif 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。\n\n### 常规的条件检查\n\n```sh\nif test (count $argv) -lt 2\n    echo \"Usage: my-script <arg1> <arg2>\"\n    echo \"Eg: <arg1> can be 'foo', <arg2> can be 'bar'\"\nelse\n    echo \"Do something with $arg1 $arg2\"\nend\n```\n\n### 变量比较\n\n```sh\nset V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo \"Err()\"\nend\n```\n\n### 检查文件是否存在\n\n```sh\nif test -e \"file.sh\"\n    echo \"somefile exists\"\nend\n```\n\n### 检查文件夹是否存在\n\n```sh\nif test -d \"somefolder\"\n  echo \"somefolder exists\"\nend\n```\n\n### 通配符情况\n\n```sh\nset file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo \"Move $file to Download dir\"\nelse\n    echo \"No python file found in dir\"\nend\n```",
+                "source": "_posts/Fish-笔记.md",
+                "raw": "---\ntitle: Fish 笔记\ndate: 2024-02-05 01:35:15\ntags: Fish\ncategories: 笔记\n---\n#笔记\n\nFish 脚本的 `shebang` 行，在文件开头加入这一行。\n\n```sh\n#!/usr/bin/fish\n```\n\n## 变量\n\nFish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。\n\n```sh\nset VAL \"Some value\"\nset CMD_VALUE = (uptime)\n```\n\n### 作用域\n\n变量基本上有三种作用域\n\n* 本地变量 local：只存在于函数内，使用 `-l` 设置。\n\n- 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。\n\n* 通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 `-U/-gx` 设置。\n\n### 列表\n\nFish 中所有变量都可以是列表\n\n```sh\nset LIST \"One\" \"Two\" \"Three\"\necho $LIST[1] # \"One\"\necho $LIST[2] # \"Two\"\necho $LIST[3] # \"Three\"\necho $LIST[-1] # \"Three\"\necho $LIST[1..3] # \"One\" \"Two\" \"Three\"\n```\n\n## 循环\n\n### for\n\n大致与 Rust 一样。\n\n```sh\nfor VAL in &LIST\n  echo $VAL\nend\n```\n\n### while\n\n```sh\nfor VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n```\n\n## 条件语句\n\nif 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。\n\n### 常规的条件检查\n\n```sh\nif test (count $argv) -lt 2\n    echo \"Usage: my-script <arg1> <arg2>\"\n    echo \"Eg: <arg1> can be 'foo', <arg2> can be 'bar'\"\nelse\n    echo \"Do something with $arg1 $arg2\"\nend\n```\n\n### 变量比较\n\n```sh\nset V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo \"Err()\"\nend\n```\n\n### 检查文件是否存在\n\n```sh\nif test -e \"file.sh\"\n    echo \"somefile exists\"\nend\n```\n\n### 检查文件夹是否存在\n\n```sh\nif test -d \"somefolder\"\n  echo \"somefolder exists\"\nend\n```\n\n### 通配符情况\n\n```sh\nset file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo \"Move $file to Download dir\"\nelse\n    echo \"No python file found in dir\"\nend\n```",
+                "slug": "Fish-笔记",
+                "published": 1,
+                "updated": "2024-02-04T18:41:56.875Z",
+                "comments": 1,
+                "layout": "post",
+                "photos": [],
+                "_id": "clsaad2o000016tko39rch4ni",
+                "content": "<p>#笔记</p>\n<p>Fish 脚本的 <code>shebang</code> 行，在文件开头加入这一行。</p>\n<pre><code class=\"sh\">#!/usr/bin/fish\n</code></pre>\n<h2 id=\"变量\"><a href=\"#变量\" class=\"headerlink\" title=\"变量\"></a>变量</h2><p>Fish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。</p>\n<pre><code class=\"sh\">set VAL &quot;Some value&quot;\nset CMD_VALUE = (uptime)\n</code></pre>\n<h3 id=\"作用域\"><a href=\"#作用域\" class=\"headerlink\" title=\"作用域\"></a>作用域</h3><p>变量基本上有三种作用域</p>\n<ul>\n<li>本地变量 local：只存在于函数内，使用 <code>-l</code> 设置。</li>\n</ul>\n<ul>\n<li>全局变量 global：可用于同一 Shell 中的所有函，使用 <code>-g</code> 设置。</li>\n</ul>\n<ul>\n<li>通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 <code>-U/-gx</code> 设置。</li>\n</ul>\n<h3 id=\"列表\"><a href=\"#列表\" class=\"headerlink\" title=\"列表\"></a>列表</h3><p>Fish 中所有变量都可以是列表</p>\n<pre><code class=\"sh\">set LIST &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\necho $LIST[1] # &quot;One&quot;\necho $LIST[2] # &quot;Two&quot;\necho $LIST[3] # &quot;Three&quot;\necho $LIST[-1] # &quot;Three&quot;\necho $LIST[1..3] # &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\n</code></pre>\n<h2 id=\"循环\"><a href=\"#循环\" class=\"headerlink\" title=\"循环\"></a>循环</h2><h3 id=\"for\"><a href=\"#for\" class=\"headerlink\" title=\"for\"></a>for</h3><p>大致与 Rust 一样。</p>\n<pre><code class=\"sh\">for VAL in &amp;LIST\n  echo $VAL\nend\n</code></pre>\n<h3 id=\"while\"><a href=\"#while\" class=\"headerlink\" title=\"while\"></a>while</h3><pre><code class=\"sh\">for VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n</code></pre>\n<h2 id=\"条件语句\"><a href=\"#条件语句\" class=\"headerlink\" title=\"条件语句\"></a>条件语句</h2><p>if 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。</p>\n<h3 id=\"常规的条件检查\"><a href=\"#常规的条件检查\" class=\"headerlink\" title=\"常规的条件检查\"></a>常规的条件检查</h3><pre><code class=\"sh\">if test (count $argv) -lt 2\n    echo &quot;Usage: my-script &lt;arg1&gt; &lt;arg2&gt;&quot;\n    echo &quot;Eg: &lt;arg1&gt; can be &#39;foo&#39;, &lt;arg2&gt; can be &#39;bar&#39;&quot;\nelse\n    echo &quot;Do something with $arg1 $arg2&quot;\nend\n</code></pre>\n<h3 id=\"变量比较\"><a href=\"#变量比较\" class=\"headerlink\" title=\"变量比较\"></a>变量比较</h3><pre><code class=\"sh\">set V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo &quot;Err()&quot;\nend\n</code></pre>\n<h3 id=\"检查文件是否存在\"><a href=\"#检查文件是否存在\" class=\"headerlink\" title=\"检查文件是否存在\"></a>检查文件是否存在</h3><pre><code class=\"sh\">if test -e &quot;file.sh&quot;\n    echo &quot;somefile exists&quot;\nend\n</code></pre>\n<h3 id=\"检查文件夹是否存在\"><a href=\"#检查文件夹是否存在\" class=\"headerlink\" title=\"检查文件夹是否存在\"></a>检查文件夹是否存在</h3><pre><code class=\"sh\">if test -d &quot;somefolder&quot;\n  echo &quot;somefolder exists&quot;\nend\n</code></pre>\n<h3 id=\"通配符情况\"><a href=\"#通配符情况\" class=\"headerlink\" title=\"通配符情况\"></a>通配符情况</h3><pre><code class=\"sh\">set file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo &quot;Move $file to Download dir&quot;\nelse\n    echo &quot;No python file found in dir&quot;\nend\n</code></pre>\n",
+                "excerpt": "",
+                "more": "<p>#笔记</p>\n<p>Fish 脚本的 <code>shebang</code> 行，在文件开头加入这一行。</p>\n<pre><code class=\"sh\">#!/usr/bin/fish\n</code></pre>\n<h2 id=\"变量\"><a href=\"#变量\" class=\"headerlink\" title=\"变量\"></a>变量</h2><p>Fish 中所有的变量都是字符串类型，不仅可以直接赋予字面值 还可以将一条 Shell 命令的输出存入变量中。</p>\n<pre><code class=\"sh\">set VAL &quot;Some value&quot;\nset CMD_VALUE = (uptime)\n</code></pre>\n<h3 id=\"作用域\"><a href=\"#作用域\" class=\"headerlink\" title=\"作用域\"></a>作用域</h3><p>变量基本上有三种作用域</p>\n<ul>\n<li>本地变量 local：只存在于函数内，使用 <code>-l</code> 设置。</li>\n</ul>\n<ul>\n<li>全局变量 global：可用于同一 Shell 中的所有函，使用 <code>-g</code> 设置。</li>\n</ul>\n<ul>\n<li>通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 <code>-U/-gx</code> 设置。</li>\n</ul>\n<h3 id=\"列表\"><a href=\"#列表\" class=\"headerlink\" title=\"列表\"></a>列表</h3><p>Fish 中所有变量都可以是列表</p>\n<pre><code class=\"sh\">set LIST &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\necho $LIST[1] # &quot;One&quot;\necho $LIST[2] # &quot;Two&quot;\necho $LIST[3] # &quot;Three&quot;\necho $LIST[-1] # &quot;Three&quot;\necho $LIST[1..3] # &quot;One&quot; &quot;Two&quot; &quot;Three&quot;\n</code></pre>\n<h2 id=\"循环\"><a href=\"#循环\" class=\"headerlink\" title=\"循环\"></a>循环</h2><h3 id=\"for\"><a href=\"#for\" class=\"headerlink\" title=\"for\"></a>for</h3><p>大致与 Rust 一样。</p>\n<pre><code class=\"sh\">for VAL in &amp;LIST\n  echo $VAL\nend\n</code></pre>\n<h3 id=\"while\"><a href=\"#while\" class=\"headerlink\" title=\"while\"></a>while</h3><pre><code class=\"sh\">for VAL in (seq 5)\n    echo $VAL\nend\n\nset V 1\nwhile test $V -lt 5\n    echo $V\n    set V (math $V + 1)\nend\n</code></pre>\n<h2 id=\"条件语句\"><a href=\"#条件语句\" class=\"headerlink\" title=\"条件语句\"></a>条件语句</h2><p>if 的关键为 使用 test 语句对表达式求布尔值，下面是几个例子。</p>\n<h3 id=\"常规的条件检查\"><a href=\"#常规的条件检查\" class=\"headerlink\" title=\"常规的条件检查\"></a>常规的条件检查</h3><pre><code class=\"sh\">if test (count $argv) -lt 2\n    echo &quot;Usage: my-script &lt;arg1&gt; &lt;arg2&gt;&quot;\n    echo &quot;Eg: &lt;arg1&gt; can be &#39;foo&#39;, &lt;arg2&gt; can be &#39;bar&#39;&quot;\nelse\n    echo &quot;Do something with $arg1 $arg2&quot;\nend\n</code></pre>\n<h3 id=\"变量比较\"><a href=\"#变量比较\" class=\"headerlink\" title=\"变量比较\"></a>变量比较</h3><pre><code class=\"sh\">set V foo\n\nif test $V = foo\n    echo bar\nelse\n    echo &quot;Err()&quot;\nend\n</code></pre>\n<h3 id=\"检查文件是否存在\"><a href=\"#检查文件是否存在\" class=\"headerlink\" title=\"检查文件是否存在\"></a>检查文件是否存在</h3><pre><code class=\"sh\">if test -e &quot;file.sh&quot;\n    echo &quot;somefile exists&quot;\nend\n</code></pre>\n<h3 id=\"检查文件夹是否存在\"><a href=\"#检查文件夹是否存在\" class=\"headerlink\" title=\"检查文件夹是否存在\"></a>检查文件夹是否存在</h3><pre><code class=\"sh\">if test -d &quot;somefolder&quot;\n  echo &quot;somefolder exists&quot;\nend\n</code></pre>\n<h3 id=\"通配符情况\"><a href=\"#通配符情况\" class=\"headerlink\" title=\"通配符情况\"></a>通配符情况</h3><pre><code class=\"sh\">set file /home/krvy/Downloads/Telegram\\ Desktop/*.py\n\nif test (count file) -gt 0\n    mv $file /home/krvy/Downloads/\n    echo &quot;Move $file to Download dir&quot;\nelse\n    echo &quot;No python file found in dir&quot;\nend\n</code></pre>\n"
+            },
+            {
+                "title": "Tokio Rutime",
+                "date": "2024-02-04T17:45:02.000Z",
+                "_content": "\nRuntime 异步运行时。\n\n## 创建\n可以使用 Runtime Builder 来创建和配置运行时环境。\n```rust\n// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n```\n\ntokio 提供两种运行时模式。\n- 单线程适合密集计算的场景。\n- 多线程模式适合多IO的场景。\n\n可以这样来创建不同的模式：\n```rust\n// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n```\n\n也可以使用简单的方式创建运行时:\n```rust\n#[tokio::main]\nasync fn main() {}\n```\n\n具体来说有这几种:\n```rust\n#[tokio::main(flavor = \"multi_thread\")] // 等价于#[tokio::main]\n#[tokio::main((flavor = \"multi_thread\", worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n```\n\n## 在 Runtime 中执行任务\n使用 tokio 的 sleep 来解释。\n\n\n> `tokio::time` 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。\n\n\n### block_on\n\n```rust\nfn main() {\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async {\n        println!(\"before sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(\"after sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n    });\n}\n```\nblock_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。\n\nblock_on 返回异步任务的返回值。\n\n### spawn\n有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。\n```rust\nuse std::thread;\n\nuse chrono::Local;\nuse tokio::{self, runtime::Runtime, time};\n\nfn now() -> String {\n    Local::now().format(\"%F %T\").to_string()\n}\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() {\n  println!(\"create an async task: {}\", now());\n  tokio::spawn(async {\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(\"async task over: {}\", now());\n  });\n}\n\nfn main() {\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async {\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    });\n}\n```\n\n## 进入 Runtime\n使用 `entry()` 进入 Runtime 时，不会阻塞当前线程，他会返回一个 `EnterGuard` 仅用于表示所有任务都在 Runtime 中执行 知道被删除。\n\n在删除`EnterGuard`后可以进入到另一个``EnterGuard`` 。\n```rust\nuse std::time::Duration;\nuse chrono::Local;\nuse tokio::{self, time::sleep};\n\nfn main() {\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\t.worker_threads(8)\n\t.enable_io()\n\t.enable_time()\n\t.build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async {\n\tprintln!(\"Gruad 1 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 1 end: {}\\n\", now());\n});\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async {\n\tprintln!(\"Gruad 2 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 2 end: {}\\n\", now());\n});\n\nstd::thread::sleep(Duration::from_secs(10));\n}\n\nfn now() -> String {\n\tLocal::now().format(\"%F %T%.3f\").to_string()\n}\n```\n\n## tokio 的两种线程\n首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。\n其次是阻塞线程，他用于会长时间阻塞或者同步的任务。\n阻塞线程默认是不存在的，只有在调用了`spawn_blocking()`时才会创建一个对应的阻塞线程。",
+                "source": "_posts/Tokio-Rutime.md",
+                "raw": "---\ntitle: Tokio Rutime\ndate: 2024-02-05 01:45:02\ntags: Tokio\ncategories: 笔记\n---\n\nRuntime 异步运行时。\n\n## 创建\n可以使用 Runtime Builder 来创建和配置运行时环境。\n```rust\n// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n```\n\ntokio 提供两种运行时模式。\n- 单线程适合密集计算的场景。\n- 多线程模式适合多IO的场景。\n\n可以这样来创建不同的模式：\n```rust\n// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n```\n\n也可以使用简单的方式创建运行时:\n```rust\n#[tokio::main]\nasync fn main() {}\n```\n\n具体来说有这几种:\n```rust\n#[tokio::main(flavor = \"multi_thread\")] // 等价于#[tokio::main]\n#[tokio::main((flavor = \"multi_thread\", worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n```\n\n## 在 Runtime 中执行任务\n使用 tokio 的 sleep 来解释。\n\n\n> `tokio::time` 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。\n\n\n### block_on\n\n```rust\nfn main() {\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async {\n        println!(\"before sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(\"after sleep: {}\", Local::now().format(\"%F %T.%3f\"));\n    });\n}\n```\nblock_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。\n\nblock_on 返回异步任务的返回值。\n\n### spawn\n有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。\n```rust\nuse std::thread;\n\nuse chrono::Local;\nuse tokio::{self, runtime::Runtime, time};\n\nfn now() -> String {\n    Local::now().format(\"%F %T\").to_string()\n}\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() {\n  println!(\"create an async task: {}\", now());\n  tokio::spawn(async {\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(\"async task over: {}\", now());\n  });\n}\n\nfn main() {\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async {\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    });\n}\n```\n\n## 进入 Runtime\n使用 `entry()` 进入 Runtime 时，不会阻塞当前线程，他会返回一个 `EnterGuard` 仅用于表示所有任务都在 Runtime 中执行 知道被删除。\n\n在删除`EnterGuard`后可以进入到另一个``EnterGuard`` 。\n```rust\nuse std::time::Duration;\nuse chrono::Local;\nuse tokio::{self, time::sleep};\n\nfn main() {\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\t.worker_threads(8)\n\t.enable_io()\n\t.enable_time()\n\t.build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async {\n\tprintln!(\"Gruad 1 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 1 end: {}\\n\", now());\n});\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async {\n\tprintln!(\"Gruad 2 start: {}\", now());\n\tsleep(Duration::from_secs(1)).await;\n\tprintln!(\"Gruad 2 end: {}\\n\", now());\n});\n\nstd::thread::sleep(Duration::from_secs(10));\n}\n\nfn now() -> String {\n\tLocal::now().format(\"%F %T%.3f\").to_string()\n}\n```\n\n## tokio 的两种线程\n首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。\n其次是阻塞线程，他用于会长时间阻塞或者同步的任务。\n阻塞线程默认是不存在的，只有在调用了`spawn_blocking()`时才会创建一个对应的阻塞线程。",
+                "slug": "Tokio-Rutime",
+                "published": 1,
+                "updated": "2024-02-05T09:28:19.120Z",
+                "comments": 1,
+                "layout": "post",
+                "photos": [],
+                "_id": "clsaad2o400036tko3d6929xr",
+                "content": "<p>Runtime 异步运行时。</p>\n<h2 id=\"创建\"><a href=\"#创建\" class=\"headerlink\" title=\"创建\"></a>创建</h2><p>可以使用 Runtime Builder 来创建和配置运行时环境。</p>\n<pre><code class=\"rust\">// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n</code></pre>\n<p>tokio 提供两种运行时模式。</p>\n<ul>\n<li>单线程适合密集计算的场景。</li>\n<li>多线程模式适合多IO的场景。</li>\n</ul>\n<p>可以这样来创建不同的模式：</p>\n<pre><code class=\"rust\">// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n</code></pre>\n<p>也可以使用简单的方式创建运行时:</p>\n<pre><code class=\"rust\">#[tokio::main]\nasync fn main() &#123;&#125;\n</code></pre>\n<p>具体来说有这几种:</p>\n<pre><code class=\"rust\">#[tokio::main(flavor = &quot;multi_thread&quot;)] // 等价于#[tokio::main]\n#[tokio::main((flavor = &quot;multi_thread&quot;, worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n</code></pre>\n<h2 id=\"在-Runtime-中执行任务\"><a href=\"#在-Runtime-中执行任务\" class=\"headerlink\" title=\"在 Runtime 中执行任务\"></a>在 Runtime 中执行任务</h2><p>使用 tokio 的 sleep 来解释。</p>\n<blockquote>\n<p><code>tokio::time</code> 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。</p>\n</blockquote>\n<h3 id=\"block-on\"><a href=\"#block-on\" class=\"headerlink\" title=\"block_on\"></a>block_on</h3><pre><code class=\"rust\">fn main() &#123;\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async &#123;\n        println!(&quot;before sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(&quot;after sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n    &#125;);\n&#125;\n</code></pre>\n<p>block_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。</p>\n<p>block_on 返回异步任务的返回值。</p>\n<h3 id=\"spawn\"><a href=\"#spawn\" class=\"headerlink\" title=\"spawn\"></a>spawn</h3><p>有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。</p>\n<pre><code class=\"rust\">use std::thread;\n\nuse chrono::Local;\nuse tokio::&#123;self, runtime::Runtime, time&#125;;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T&quot;).to_string()\n&#125;\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() &#123;\n  println!(&quot;create an async task: &#123;&#125;&quot;, now());\n  tokio::spawn(async &#123;\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(&quot;async task over: &#123;&#125;&quot;, now());\n  &#125;);\n&#125;\n\nfn main() &#123;\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async &#123;\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    &#125;);\n&#125;\n</code></pre>\n<h2 id=\"进入-Runtime\"><a href=\"#进入-Runtime\" class=\"headerlink\" title=\"进入 Runtime\"></a>进入 Runtime</h2><p>使用 <code>entry()</code> 进入 Runtime 时，不会阻塞当前线程，他会返回一个 <code>EnterGuard</code> 仅用于表示所有任务都在 Runtime 中执行 知道被删除。</p>\n<p>在删除<code>EnterGuard</code>后可以进入到另一个<code>EnterGuard</code> 。</p>\n<pre><code class=\"rust\">use std::time::Duration;\nuse chrono::Local;\nuse tokio::&#123;self, time::sleep&#125;;\n\nfn main() &#123;\nlet rt = tokio::runtime::Builder::new_multi_thread()\n    .worker_threads(8)\n    .enable_io()\n    .enable_time()\n    .build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async &#123;\n    println!(&quot;Gruad 1 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 1 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async &#123;\n    println!(&quot;Gruad 2 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 2 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\nstd::thread::sleep(Duration::from_secs(10));\n&#125;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T%.3f&quot;).to_string()\n&#125;\n</code></pre>\n<h2 id=\"tokio-的两种线程\"><a href=\"#tokio-的两种线程\" class=\"headerlink\" title=\"tokio 的两种线程\"></a>tokio 的两种线程</h2><p>首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。<br>其次是阻塞线程，他用于会长时间阻塞或者同步的任务。<br>阻塞线程默认是不存在的，只有在调用了<code>spawn_blocking()</code>时才会创建一个对应的阻塞线程。</p>\n",
+                "excerpt": "",
+                "more": "<p>Runtime 异步运行时。</p>\n<h2 id=\"创建\"><a href=\"#创建\" class=\"headerlink\" title=\"创建\"></a>创建</h2><p>可以使用 Runtime Builder 来创建和配置运行时环境。</p>\n<pre><code class=\"rust\">// 创建带有线程池的runtime\n\nlet rt = tokio::runtime::Builder::new_multi_thread()\n\n.worker_threads(8) // 8个工作线程\n\n.enable_io() // 可在runtime中使用异步IO\n\n.enable_time() // 可在runtime中使用异步计时器(timer)\n\n.build() // 创建runtime\n\n.unwrap();\n</code></pre>\n<p>tokio 提供两种运行时模式。</p>\n<ul>\n<li>单线程适合密集计算的场景。</li>\n<li>多线程模式适合多IO的场景。</li>\n</ul>\n<p>可以这样来创建不同的模式：</p>\n<pre><code class=\"rust\">// 创建单一线程的runtime\nlet rt = tokio::runtime::Builder::new_current_thread().build().unwrap();\n\n// 创建多线程的runtime\nlet rt = tokio::runtime::Runtime::new().unwrap();\n</code></pre>\n<p>也可以使用简单的方式创建运行时:</p>\n<pre><code class=\"rust\">#[tokio::main]\nasync fn main() &#123;&#125;\n</code></pre>\n<p>具体来说有这几种:</p>\n<pre><code class=\"rust\">#[tokio::main(flavor = &quot;multi_thread&quot;)] // 等价于#[tokio::main]\n#[tokio::main((flavor = &quot;multi_thread&quot;, worker_threads = 10))]\n#[tokio::main((worker_threads = 10))]\n</code></pre>\n<h2 id=\"在-Runtime-中执行任务\"><a href=\"#在-Runtime-中执行任务\" class=\"headerlink\" title=\"在 Runtime 中执行任务\"></a>在 Runtime 中执行任务</h2><p>使用 tokio 的 sleep 来解释。</p>\n<blockquote>\n<p><code>tokio::time</code> 中的 sleep 是放弃它所在任务的 CPU 并等待唤醒，它不会阻塞当前线程，它所在的线程可以继续执行其他任务。</p>\n</blockquote>\n<h3 id=\"block-on\"><a href=\"#block-on\" class=\"headerlink\" title=\"block_on\"></a>block_on</h3><pre><code class=\"rust\">fn main() &#123;\n    let rt = Runtime::new().unwrap();\n    rt.block_on(async &#123;\n        println!(&quot;before sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n        tokio::time::sleep(tokio::time::Duration::from_secs(2)).await;\n        println!(&quot;after sleep: &#123;&#125;&quot;, Local::now().format(&quot;%F %T.%3f&quot;));\n    &#125;);\n&#125;\n</code></pre>\n<p>block_on 方法，接受一个 Future 参数，这个方法将阻塞当前线程直到指定的任务全部完成。</p>\n<p>block_on 返回异步任务的返回值。</p>\n<h3 id=\"spawn\"><a href=\"#spawn\" class=\"headerlink\" title=\"spawn\"></a>spawn</h3><p>有时候 要执行异步任务却不在 Runtime 中时，可以使用 spawn 来生成异步任务。</p>\n<pre><code class=\"rust\">use std::thread;\n\nuse chrono::Local;\nuse tokio::&#123;self, runtime::Runtime, time&#125;;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T&quot;).to_string()\n&#125;\n\n// 在runtime外部定义一个异步任务，且该函数返回值不是Future类型\nfn async_task() &#123;\n  println!(&quot;create an async task: &#123;&#125;&quot;, now());\n  tokio::spawn(async &#123;\n    time::sleep(time::Duration::from_secs(10)).await;\n    println!(&quot;async task over: &#123;&#125;&quot;, now());\n  &#125;);\n&#125;\n\nfn main() &#123;\n    let rt1 = Runtime::new().unwrap();\n    rt1.block_on(async &#123;\n      // 调用函数，该函数内创建了一个异步任务，将在当前runtime内执行\n      async_task();\n    &#125;);\n&#125;\n</code></pre>\n<h2 id=\"进入-Runtime\"><a href=\"#进入-Runtime\" class=\"headerlink\" title=\"进入 Runtime\"></a>进入 Runtime</h2><p>使用 <code>entry()</code> 进入 Runtime 时，不会阻塞当前线程，他会返回一个 <code>EnterGuard</code> 仅用于表示所有任务都在 Runtime 中执行 知道被删除。</p>\n<p>在删除<code>EnterGuard</code>后可以进入到另一个<code>EnterGuard</code> 。</p>\n<pre><code class=\"rust\">use std::time::Duration;\nuse chrono::Local;\nuse tokio::&#123;self, time::sleep&#125;;\n\nfn main() &#123;\nlet rt = tokio::runtime::Builder::new_multi_thread()\n    .worker_threads(8)\n    .enable_io()\n    .enable_time()\n    .build()\n    .unwrap();\n\nlet gruad1 = rt.enter();\n\nrt.spawn(async &#123;\n    println!(&quot;Gruad 1 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 1 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\ndrop(gruad1); // 注释掉这一行将 panic!\n\nlet _gruad2 = rt.enter();\nrt.spawn(async &#123;\n    println!(&quot;Gruad 2 start: &#123;&#125;&quot;, now());\n    sleep(Duration::from_secs(1)).await;\n    println!(&quot;Gruad 2 end: &#123;&#125;\\n&quot;, now());\n&#125;);\n\nstd::thread::sleep(Duration::from_secs(10));\n&#125;\n\nfn now() -&gt; String &#123;\n    Local::now().format(&quot;%F %T%.3f&quot;).to_string()\n&#125;\n</code></pre>\n<h2 id=\"tokio-的两种线程\"><a href=\"#tokio-的两种线程\" class=\"headerlink\" title=\"tokio 的两种线程\"></a>tokio 的两种线程</h2><p>首先是用于异步的工作线程，他用于不会阻塞的任务。每一个工作线程都绑定一个系统核心。<br>其次是阻塞线程，他用于会长时间阻塞或者同步的任务。<br>阻塞线程默认是不存在的，只有在调用了<code>spawn_blocking()</code>时才会创建一个对应的阻塞线程。</p>\n"
+            }
+        ],
+        "PostAsset": [],
+        "PostCategory": [
+            {
+                "post_id": "clsaad2o000016tko39rch4ni",
+                "category_id": "clsaad2o500046tkodz3efvrx",
+                "_id": "clsaad2oa00096tko63kc4nd0"
+            },
+            {
+                "post_id": "clsaad2o400036tko3d6929xr",
+                "category_id": "clsaad2o500046tkodz3efvrx",
+                "_id": "clsaad2oa000b6tko49qk26qh"
+            }
+        ],
+        "PostTag": [
+            {
+                "post_id": "clsaad2o000016tko39rch4ni",
+                "tag_id": "clsaad2o700056tko84vz95o0",
+                "_id": "clsaad2o900086tko2exn0qt5"
+            },
+            {
+                "post_id": "clsaad2o400036tko3d6929xr",
+                "tag_id": "clsaad2o800076tkoc98fhdzi",
+                "_id": "clsaad2oa000a6tkohwkb9cu0"
+            }
+        ],
+        "Tag": [
+            {
+                "name": "Fish",
+                "_id": "clsaad2o700056tko84vz95o0"
+            },
+            {
+                "name": "Tokio",
+                "_id": "clsaad2o800076tkoc98fhdzi"
+            }
+        ]
+    }
+}

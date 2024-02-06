@@ -1,10 +1,10 @@
 ---
-title: Fish 笔记
-date: 2024-02-05 01:35:15
+title: Fish Shell
+date: 2024-01-29 01:35:15
 tags: Fish
 categories: 笔记
 ---
-#笔记
+# 笔记
 
 Fish 脚本的 `shebang` 行，在文件开头加入这一行。
 
@@ -27,7 +27,7 @@ set CMD_VALUE = (uptime)
 
 * 本地变量 local：只存在于函数内，使用 `-l` 设置。
 
-- 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。
+* 全局变量 global：可用于同一 Shell 中的所有函，使用 `-g` 设置。
 
 * 通用变量 universal：用于系统环境变量，在 Shell 重启后任然存在，使用 `-U/-gx` 设置。
 
